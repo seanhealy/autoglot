@@ -1,0 +1,14 @@
+{
+  "name": "autoglot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:seanhealy/autoglot.git",
+  "author": "Polyglot YYC",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

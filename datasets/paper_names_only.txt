@@ -1,0 +1,3032 @@
+High speed and multimedia communication
+Distributed knowledge worker (DKW): a personal conferencing system
+Extensions to Starburst: objects, types, functions and rules
+Object oriented programming: looking ahead to the year 2000
+Towards a new distributed programming environment (CORDS)
+High-level language support for programming distributed systems
+Visualizing and querying software structures
+Control and responsiveness in Hermes
+Supporting database access in the Hermes programming language
+Transaction management in Hermes
+Nestmod: the NetMod - NEST interface
+A simulation model for X.500 directories: initial experiences
+Analysis of X.500 distributed directory refresh strategies
+Name space models for locating services
+Reading source code
+A service acquisition mechanism for the client/service model in cygnus
+Network management by delegation: the MAD approach
+Narratives of space and time: visualization for distributed applications
+Theories and techniques of program understanding
+A timed Petri-net model for fine-grain loop scheduling
+A software reverse engineering experience
+How people use softcopy documentation: a case study
+The IBM-McGill project on software process
+Assessing design-quality metrics on legacy software
+Foundations of 4Thought
+Experiences in program understanding
+Using neural nets to optimize retrieval in a fuzzy relational database
+Evolutions in typesetting systems
+Formalization of information hiding design methods
+Practical metaprogramming
+A theory-model formalization of FlexOr
+Visualisation of large networks in 3-D space: issues in implementation and experimental evaluation
+Challenges in graph-based relational data visualization
+The calibration of a display monitor for an image enabler
+A prototype debugger for Hermes
+A practical approach to re-engineering software
+Toward program representation and program understanding using process algebras
+Management decision support through reverse engineering technology
+SCRUPLE: a reengineer\'s tool for source code search
+Concurrency issues in <i> C </i> <sup> ++ </sup>
+Can competitive analysis be made competitive?
+Architecture of the XL C++ browser
+Integrating applications with cache and memory management on a shared-memory multiprocessor
+A C toolkit to support parallel programming
+Defect tracking and reliability modeling for a new product release
+A comparison of access methods for online documentation
+ISO 9000: a requirement for doing business
+Multicolour programming and metamorphic programming: object oriented programming-in-the-large
+Software estimation using the SLIM tool
+Rule-based process servers for software development environments
+Towards a computer-aided process engineering environment
+AAA: a modeling language for software production environments
+National language architecture
+Cluster busting in anchored graph drawing
+Continuous improvement experiences in information development
+An agenda for research directions
+CAS: a centre for applied research and development
+Query optimization in multidatabase systems
+CORDS: status and directions
+Issues in managing long transactions and large objects in a multidatabase system
+Classifying approaches to semantic heterogeneity in multidatabase systems
+The role of directory services in network management
+The optimal placement of replicas in a network using a READ ANYWRITE ALL policy
+NESTMOD simulation of DQDB metropolitan networks
+On remote procedure call
+Overview of multidatabase transaction management
+Optimistic replication in HOPE
+Elastic servers in CORDS
+Extending distributed system specifications
+Analytic methods in coverage testing of communications software
+A prototype debugger for Hermes
+Directory requirements for a multidatabase service
+A formalization of the CORDS Process Model using Mondel
+Some definitions, protocols and proofs about secure authentication
+From grapevine to trader: the evolution of distributed directory technology
+Multidatabase services: issues and architectural design
+A concurrency control protocol for nested transactions
+A transactional API for the EAN X.500 directory service
+Open nested serializability in multidatabase systems
+Formal approach to QoS specification and verification
+Visual formalisms for configuration management
+Integration of CASE into undergraduate education
+Maintenance productivity: observations based on an experience in a large system environment
+Identifying redundancy in source code using fingerprints
+Formal specifications design, evolution and reuse
+Program representation and behavioural matching for localizing similar code fragments
+The development of a partial design recovery environment for legacy systems
+Understanding software systems using reverse engineering technology perspectives from the Rigi project
+Generating programming language-based pattern matchers
+Managing views in a program understanding tool
+The impact of inserting a tool into a software process
+An empirical evaluation of the G/Q/M method
+An integrated distributed systems management architecture
+Evaluating the impact of process improvements quantitatively using process modeling
+OPT: organization and process together
+A proposed approach to process decomposition and collaboration for MARVEL
+Surveys as a method for improving the development process
+Linkage metrics for process reengineering
+How one product team met the quality challenge
+Cost, quality and user satisfaction of software products: an empirical analysis
+Illuminating software specifications
+Business-structured client/server: an architecture for distributed applications
+Filtering for quality
+Using Hy<sup>+ </sup> for network management and distributed debugging
+A case study in class testing
+Collecting data for software reliability analysis and modeling
+Fault-based test generation for cause-effect graphs
+The use of process clustering in distributed-system event displays
+Some issues in multi-phase software reliability modeling
+Efficient event generation for detecting races
+Using objects to distribute configuration management tasks
+Isochronets: an architecture for high-speed networks
+Developing an object-oriented view management system
+Towards unifying analysis, design, and implementation in object-oriented environments
+Using SOM for tool integration
+A multi-dimensional taxonomy of software development environments
+TIGUKAT object management system: initial design and current directions
+Visualizing object oriented software in three dimensions
+A multimedia real-time conferencing system: architecture and implementation
+Experimental use of the portable common tool environment (PCTE) on a fine-grained data problem
+An integrated architecture for distributed applications
+ADVcharts: a graphical specification for abstract data views
+An example of linking formal methods with case tools: a model checker for statecharts
+Information visualization and interactive querying for online documentation and electronic books
+Documents, concepts and neural networks
+Determining core competences in the information development environment: an example
+Validating a core competence: information development
+A comparison of interobserver agreement and quantity of usability data obtained using graphics-based and text-based data collection tools
+Writing about C++
+Using cognates to align sentences in bilingual corpora
+Documenting-in-the-large vs. documenting-in-the-small
+Colour monitor calibration based on CIE standards
+A simple model of prolog\'s performance: extensional predicates
+Translation analysis and translation automation
+Properties of the voronoi diagram cluster buster
+Managing and Reproducing Colour Images (MARCI)
+Operation jump start: a CORDS integration prototype using DCE
+On distributed system management
+Knowledge-based security administration in a distributed environment
+Exploring large hyperdocuments: fisheye views of nested networks
+Modeling RPC performance
+Managing heterogeneous distributed computing systems: using information repositories
+Interface design issues in the MEDIALOGâ¢ project
+A document model for multimedia information
+Implementing a delegation model design of an HPCC application using concert/C
+Distributed information discovery challenges
+Multimedia integration in the RACE BANK multimedia broadband cooperation projects
+COOPDRAW: a multiagent architecture for a shared graphical editor
+CORDS multidatabase project: research and prototype overview
+Database integration using multidatabase views
+Engineering an SQL gateway to IMS
+Exploiting uniqueness in query optimization
+Interchanging group-by and join in distributed query processing
+An integrated method for estimating selectivities in a multidatabase system
+Query optimization using fuzzy set theory for multidatabase systems
+Logical concurrency control for large objects in a multidatabase system
+Architecture for transaction management in the CORDS multidatabase service
+Weakly consistent transactions in <i>ROSS</i>
+Composite multidatabase system concurrency control and recovery
+A transaction manager component for cooperative transaction models
+Concurrency abstractions in a C++ class library
+Language support for data parallelism in pointer based dynamic data structures
+Register allocation for optimal loop scheduling
+Evaluation of distributed communication systems
+Consistency and event ordering in the shared regions model
+Deductive database support for data visualization
+Enterprise in context: assessing the usability of parallel programming environments
+Schema translation using structural transformation
+Self-testing software probe system for failure detection and diagnosis
+Volume upper bounds for 3D graph drawing
+A technique for automatically organizing software libraries for software reuse
+A theory model core for module interconnection languages
+Translating GraphLog to SQL
+Applying program understanding technology to IBM product documentation
+Using Kohonen maps to determine document similarity
+The loosely-synchronous transfer mode
+Quality of service management automation in integrated distributed systems
+Investigating coverage-reliability relationship and sensitivity of reliability to errors in the operational profile
+An efficient expected cost algorithm for dynamic indexing of spatial objects
+Metamorphic development of a GUI for configuration management
+Designing for change
+On testing of classes in object-oriented programs
+Quality of service verification experiments
+Techniques and experiences with group support system implementation
+Automatic translation of process modeling formalisms
+Testing the C set++ collection class library
+Computer aided document engineering
+Eliciting formal models of software engineering processes
+Using objects in shared memory for C++ application
+A compiler framework for restructuring data declarations to enhance cache and TLB effectiveness
+Toward distributed applications management using the OSI management framework
+EPPP - an integrated environment for portable parallel programming
+Visualizing textual redundancy in legacy source
+FTL: a multithreaded environment for parallel computation
+Partial design recovery using dynamic programming
+Restricted object based design of event driven commercial software
+Software release management: a business perspective
+An object oriented testing and maintenance environment
+Visualizing abstract events
+Static analysis of multiway synchronization
+Object-oriented metrics: an overview
+An automated internet resource discovery system
+Test case generation for specification-based software testing
+The contract approach illustrated with a distributed routing protocol
+Loosely integrating tools using the star system
+Supporting communications infrastructure evolution
+Storing MDBS catalog information in an X.500 directory service
+Foraging for information resources in cyberspace: intelligent foraging agent in a distributed network
+An SGML-based programming environment for literate programming
+Towards an integrated toolset for program understanding
+Automatic decomposition in EPPP compiler
+A comparison of identification rates of static and animated buttons
+On the automation of code generation for user interface models
+On the experience of using cause-effect graphs for software specification and test generation
+Obstacles to transparent heterogeneity in a distributed programming environment
+Modeling and querying software repositories
+Modelling a distributed database system
+Toward automation of generating incremental computation mechanisms
+Design and implementation of a trader-based resource management system
+OODB support for providing transparent schema changes
+A response oriented paradigm for software engineering
+Capturing software process and product characteristics in process models using task element decomposition
+Failure isolation and recovery in composite multidatabases
+Grail: a C++ library for finite-state machines and regular expressions
+Inspection effectiveness in software development: a neural network approach
+Consistency issues in distributed application performance metrics
+Using the OPT improvement approach in the SQL/DS development environment
+Integrating cognitive levels into the interface
+Enterprise: current status and future directions
+Integrating real-time and partial-order information in event-data displays
+Reducing the technical overhead of software reuse
+Automatic source-file dependency structure extraction for C programs
+Data parallelism with high performance C
+TIM: a tool insertion method
+View maintenance in relational and deductive databases by incremental query evaluation
+Distributed multimedia applications and quality of service: a survey
+Extending the RMON matrix group to provide network layer statistics
+Software understanding through integrated structural and run-time analysis
+Data reduction through early grouping
+A versatile development process for small to large projects using IBM CMVC
+A formal specification model and its application in multidatabase systems
+Delivery of electronic news: a broadband application
+A comparison of two handwriting recognizers for pen-based computers
+An investigation of monitoring configurations
+Analyzing CASE impact
+S/SL revisited
+Optimized code restructuring of OS/2 executables
+An approach to building quality into software architecture
+Teaching object-oriented analysis and design by Cruisin\' the classifieds for business objects
+Making the user interface disappear: the reactive room
+Statecharts supervision models for reactive systems
+Phased development of critical real-time systems in timed CSP
+Software architectural analysis: an experience report
+A component based software reliability model
+Concurrency control with lock preemption and restoration
+Enhancing cleanroom techniques with refinement calculus
+Document classification and recurrent neural networks
+Layout and structuring object oriented software in three dimensions
+An object state test model: object state diagram
+The environment understanding interface: detecting and tracking human activity through multimedia sensors
+The impact of interprocedural class analysis on optimization
+Talking your way around a conference: a speech interface for remote equipment control
+Browsing local and global information
+Visual web surfing with Hy<sup>+ </sup>
+SAMC - efficient semi-adaptive data compression
+A trainable system for the extraction of meaning from text
+Content-based image retrieval
+Integrating visualization into event monitoring and analysis in distributed systems management
+DECALS: distributed experiment control and logging system
+Behavioral patterns for software requirement engineering
+Using textual redundancy to understand change
+A survey of object-oriented reuse
+Reliable communications in FTL
+Interworking of traders in a distributed computing environment
+Performance modeling of the distributed computing environment
+Determinants of service quality in software: an empirical analysis
+The architecture of an agent building shell
+A new object-oriented technique for building a dynamic graphical user interface
+A comparison-based approach for software inspection
+Towards a real-time object-oriented modeling approach
+Memory disambiguation for general-purpose applications
+Template-based program restructuring - initial experience
+Lightweight video service for multi-media digital libraries
+Cause-effect graphing analysis and validation of requirements
+Current proposals for parallel C++
+A new solution to test generation for Boolean expressions
+Parallel I/O templates for enterprise
+An SQL interface to X.500
+The role of the personal computer in the design and development of advanced life-support equipment for tactical aircraft
+The information highway and Africa
+Development productivity for commercial software using object-oriented methods
+Automating real-time multi-threaded application development
+Parameter estimation for performance models of distributed application systems
+Ensuring responsiveness and scalability for distributed applications
+Limiting the probe effect in debugging concurrent object-oriented programs
+A visual object-oriented development environment (VOODE)
+Achieving target-system independence in event visualisation
+Using an integrated toolset for program understanding
+On the use of machine-assisted knowledge discovery to analyze and reengineer measurement frameworks
+An architecture for monitoring and modeling network systems
+Performance debugging in the enterprise parallel programming system
+Performing replay in an OSF DCE environment
+Simplification of outer joins
+No regression algorithm for the enumeration of projections in SQL queries with joins and outer joins
+Transaction scheduling in dynamic composite multidatabase systems
+Monitoring overhead in distributed systems: visualization and estimation techniques
+An architecture for enforcement of usage contracts in distributed multimedia systems
+Supporting procedural constructs in existing SQL compilers
+Network management views using delegated agents
+A comparison of algorithms for interprocedural class analysis
+Class testing and code-based criteria
+Performance aspects of dynamic re-allocation for partitioned data
+Navigating the textual redundancy web in legacy source
+A survey of testing techniques for object-oriented systems
+Evaluating the costs of management: a distributed applications management testbed
+Single stepping in event-visualization tools
+IRIS - a system for image and video retrieval
+Performing boundary shape matching in spatial data
+Defining factors,goals and criteria for reusable component evaluation
+On predicting reliability of modules using code coverage
+Extended SSA numbering: introducing SSA properties to languages with multi-level pointers
+A system for the seamless integration of personal messages using agents developed on a lotus notes platform.
+Design patterns in enterprise
+A management information repository for distributed applications management
+A functional intermediate form for diverse source languages
+BIVTECI: a bibliographic visualization tool
+Reuse in the application layer
+Real-time complexity metric tools for visualAge smalltalk and C++
+Inter-class testing of O-O software in the presence of polymorphism
+Software reuse using formal specification of requirements
+Paradigm shift in software re-engineering: an experience report
+Automatic generation of performance models for distributed application systems
+Communication costs in code and design reviews: an empirical study
+Views on template-based parallel programming
+Measurements of DCE RPC performance in an OS/2 environment
+Data locality sensitivity of multithreaded computations on a distributed-memory multiprocessor
+A hybrid process for recovering software architecture
+A robot agent that can search
+Harvesting design for an application framework
+Live WWW and its agents: the CAS-LWWW project
+A memory-adaptive sort (MASORT) for database systems
+Broadband application transport service and management
+Modeling on-line rebalancing with priorities and executing on parallel database systems
+Automatic parallelization for symmetric shared-memory multiprocessors
+Modeling and analysis of the Unix communication subsystems
+Sustaining software interoperability via shared,evolving object repositories: system optimization and evaluation
+Improving cohesiveness and flexibility in systems management architectures using distributed object technologies over the internet
+Availability management of distributed programs and services
+A performance study of client-broker-server systems
+Similarity-based retrieval for diverse bookshelf software repository users
+A unified approach for mining outliers
+Fast detection of communication patterns in distributed executions
+Keeping virtual information resources up and running
+A performance engineering tool and method for distributing applications
+An approach to software architecture analysis for evolution and reusability
+Configuration maintenance for distributed applications management
+Agent augmented community-information: the ACORN architecture
+Architectural unification
+A high performance get-put interface for ATM communications
+File clustering using naming conventions for legacy systems
+Using shim technology to monitor DCE runtime performance
+An examination of software engineering work practices
+An architectural approach to building systems from COTS software components
+Towards efficient and scalable mediation: the AURORA approach
+The role of a GUI in the creation of a trainable message understanding system
+Using animated icons to present complex tasks
+Automatic generation of performance models using the distributed management framework (DMF)
+Repairing software style using graph grammars
+Acme: an architecture description interchange language
+DBMiner: a system for data mining in relational databases and data warehouses
+Augmenting data flow criteria for class testing
+Effective data mining: a data warehouse-backboned architecture
+Clones occurence in large object oriented software packages
+Representing architectural evolution
+Shared memory computing on SP2: JIAJIA approach
+Code migration through transformations: an experience report
+The internet vs e-commerce servers: when will server performance matter?
+On end-to-end performance of multi-service concatenation
+Executing Java threads in parallel in a distributed-memory environment
+Composition and interfaces within software architecture
+A technique for illustrating dynamic component level interactions within a software architecture
+Sharpening global static analysis to cope with Java
+Designing and implementing QoS management of the web
+An empirical method based on protocol analysis to analyze technical review meetings
+A class of synchronization systems that permit the use of large atomic blocks
+Efficient software testing protocols
+Conditional-event usage testing
+Mining multimedia data
+A piggyback method to collect statistics for query optimization in database management systems
+An experimental study of DCE performance in an ATM environment
+Assessing the relevance of identifier names in a legacy software system
+The SDSC storage resource broker
+Software architecture recovery using Conway\'s law
+JAZZ: an efficient compressed format for Java archive files
+SC(R)<sup>3 </sup>: towards usability of formal methods
+OQL_SERF: an ODMG implementation of the template-based schema evolution framework
+A model independent source code repository
+Storage estimation for multidimensional aggregates in OLAP
+The specification of distributed objects: liveness and locality
+Forward and reverse repair of software architecture
+Soot - a Java bytecode optimization framework
+Towards array bound check elimination in Java <sup>TM </sup> virtual machine language
+Multiple-granularity interleaving for piggyback query processing
+Increasing the flexibility of modelling tools via constraint-based specification
+The fused multiply-add instruction leads to algorithms for extended-precision floating point: applications to java and high-performance computing
+Software architecture abstraction and aggregation as algebraic manipulations
+Leveraging IBM visual age for C++ for reverse engineering tasks
+A static measure of a subset of intra-procedural data flow testing coverage based on node coverage
+Migration of procedural systems to network-centric platforms
+Compact Java binaries for embedded systems
+Designing multinational online stores: challenges,implementation techniques and experience
+Automatic detection of immutable fields in Java
+Supporting maintenance of legacy software with data mining techniques
+Efficient mapping of software system traces to architectural views
+Simulating DB2 buffer pool management
+A framework algorithm for dynamic,centralized dimension-bounded timestamps
+A multi-perspective software visualization environment
+A cognitive and user centric based approach for reverse engineering tool design
+Web-based specification and integration of legacy services
+Bisimulation analysis of SDL-expressed protocols: a case study
+Model checking the composition of hypermedia design components
+Performance modeling of nested transactions in database systems
+Witan web and the software engineering of web-based applications
+Task-directed software inspection technique: an experiment and case study
+An interactive system for recognizing hand drawn UML diagrams
+A framework for optimizing Java using attributes
+Queueing model based Qos management prototype for e-commerce systems
+Lightweight reasoning about program correctness
+Intelligent search techniques for large software systems
+Node similarity in networked information spaces
+User-centered design methods in practice: a survey of the state of the art
+A Pareto model for OLAP view size estimation
+Integrating SHriMP with the IBM websphere studio workbench
+Extending the message flow debugger for MQSI
+Utilizing histogram information
+On staleness and the delivery of web pages
+An analytical model for buffer hit rate prediction
+Using UML to reflect non-functional requirements
+Principles in formal specification of object oriented design and architecture
+Terminology management as data management
+Towards specifying constraints for object-oriented frameworks
+User experience with alignment of real and virtual objects in a stereoscopic augmented reality interface
+A case study in the use of defect classification in inspections
+Email classification with co-training
+Migrating E-commerce database applications to an enterprise Java environment
+Specification-based regression test selection with risk analysis
+A study of the impact of direct access I/O on relational database management systems
+Index selection for compiled database applications in embedded control programs
+Exploiting common subqueries for complex query optimization
+Configuring buffer pools in DB2 UDB
+Re-ranking search results using network analysis a case study with google: a case study with Google
+Supporting capacity planning for DB2 UDB
+A methodology for auto-recognizing DBMS workloads
+An empirical evaluation of system and regression testing
+TaskView: design and evaluation of a task-based email interface
+Qualitative observations from software code inspection experiments
+Wavelet-based relative prefix sum methods for range sum queries in data cubes
+Subject space: a state-persistent model for publish/subscribe systems
+Measurement of technology mediated communication style: the communication preferences inventory (CPI)
+Event matching in symmetric subscription systems
+A service-oriented monitoring registry
+Developing trust in internet commerce
+An experiment to investigate interacting versus nominal groups in software inspection
+Spatialized audioconferencing: what are the benefits?
+Efficient use of code coverage in large-scale software development
+Multicasting in mobile ad-hoc networks: achieving high packet delivery ratios
+A principled design for scalable internet visual communications with rich media,interactivity,and structured archives
+Modeling location-based services with subject spaces
+Efficient matching for state-persistent publish/subscribe systems
+A paradigm shift: alternative interaction techniques for use with mobile &amp; wearable devices
+Customizing lotus notes to build software engineering tools
+Migration of legacy web applications to enterprise Java<sup>TM </sup> environments net.dataÂ® to JSP<sup>TM </sup> transformation
+Design and implementation of a portable and adaptable load balancing framework
+Applying data mining to software maintenance records
+Robust multilingual parsing using island grammars
+Optimizing large star-schema queries with snowflakes via heuristic-based query rewriting
+Techniques for automatically sizing multiple buffer pools in DB2
+The effect of task domain on search
+Should potential loop optimizations influence inlining decisions?
+Workload characterization for an E-commerce web site
+A multi-dimensional histogram for selectivity estimation and fast approximate query answering
+Removing false code dependencies to speedup software build processes
+Can GRID services provide answers to the challenges of national health information sharing?
+Network-centric migration of embedded control software: a case study
+Early evaluation of software performance based on the UML performance profile
+Testing iptables
+On tabular expressions
+Effective test metrics for test strategy evolution
+Practical language-independent detection of near-miss clones
+Identifying opportunities for automatic remote field cloning
+Structure choices for two-dimensional histogram construction
+Sizing DB2 UDB<sup>Â® </sup> servers for business intelligence workloads
+Building predictors from vertically distributed data
+Mobile services discovery and selection in the publish/subscribe paradigm
+Verifying protocols by model checking: a case study of the wireless application protocol and the model checker SPIN
+Evaluating the performance of user-space and kernel-space web servers
+Consistent query answering under inclusion dependencies
+Investigations in tree locking for compiled database applications
+An introduction to multilevel secure relational database management systems
+One XP experience: introducing agile (XP) software development into a culture that is willing but not ready
+An experimental simulation of multi-site software development
+A quantitative analysis of the performance impact of specialized bytecodes in java
+Information discovery within organizations using the Athens system
+A reverse engineering tool for precise class diagrams
+Selecting the best web service
+Effect of different network analysis strategies on search engine re-ranking
+A survey of trace exploration tools and techniques
+Program comprehension with dynamic recovery of code collaboration patterns and roles
+Using trace analysis for improving performance in COTS systems
+Specifying and locating hierarchical patterns in event data
+Specifying framework constraints with FCL
+Eliciting confidentiality requirements in practice
+diffX: an algorithm to detect changes in multi-version XML documents
+Detecting unusual email communication
+Universal access architecture for digital libraries
+Experience in using business scenarios to assess COTS components in integrated solutions
+Scalable database replication through dynamic multiversioning
+SCL: a language for security testing of network applications
+An interactive system for negotiation in e-commerce with incremental user knowledge
+A secured hierarchical trust management framework for public computing utilities
+On generating cognitive patterns of software comprehension
+A mechanism for visualizing TCP-socket interactions
+A variability management process for software product lines
+Learning basic block scheduling heuristics from optimal data
+DBmbench: fast and accurate database workload representation on modern microarchitecture
+Online data migration for autonomic provisioning of databases in dynamic content web servers
+Scheduling functional regression tests for IBM DB2 products
+Are patches cutting it?: structuring distribution within a JVM using aspects
+Mixed mode execution with context threading
+Automated workplace design and reconfiguration for evolving business processes
+Tracking time-varying parameters in software systems with extended Kalman filters
+Emotions as a metaphor for altering operational behavior in autonomic computing
+RoadMapAssembler: a new pattern-based J2EE development tool
+Event-driven response architecture for event-based computing
+Horizontal decomposition of Prevayler
+TAUPE: towards understanding program comprehension
+Static analysis for dynamic coupling measures
+All code coverage is not created equal: a case study in prioritized code coverage
+STAC: software tuning panels for autonomic control
+Workload adaptation in autonomic DBMSs
+Peer-to-peer data integration with distributed bridges
+Addressing concurrency in object-oriented software development
+Integrating scenarios,i*,and AspectT in the context of multi-agent systems
+Integrating dynamic views using model driven development
+Automating function point analysis with model driven development
+Adaptiveness in well-typed Java bytecode verification
+Towards evidence-supported,question-directed collaborative program comprehension
+Packet decoding using context sensitive parsing
+On approximate matching of programs for protecting libre software
+Improving web site search using web server logs
+A design technique for evolving web services
+Legal research topics within services sciences
+Software architects in practice: handling requirements
+Tailoring UML activities to use case modeling for web application development
+Inspecting designs in the context of model-driven development
+A lightweight approach to state based security testing
+Improving a textual deception detection model
+Combined static and dynamic analysis for inferring program dependencies using a pattern language
+Hybrid vs. monolithic OS kernels: a benchmark comparison
+CasSim: a top-level-simulator for grid scheduling and applications
+Component-oriented version management for hardware software co-design
+Online shopping for technology products: designing web portals to address buyer behaviours,attitudes and individual differences
+Towards autonomic workflow management systems
+Exploring a new space of features for document classification: figure clustering
+A framework for visualization of large time-varying volume data for high performance computing
+Exercising control over the design of evolving software systems using an inverse application of reflexion modeling
+Ensuring behavioural equivalence in test-driven porting
+Accelerating marching cubes with graphics hardware
+A backtracking LR algorithm for parsing ambiguous context-dependent languages
+Introducing performance engineering by means of tools and practical exercises
+A model and architecture for situation determination
+A framework for reducing instruction scheduling overhead in dynamic compilers
+Utilizing field usage patterns for Java heap space optimization
+Requirements-driven design of autonomic application software
+Functionality configuration for eHome systems
+Trust by design: information requirements for appropriate trust in automation
+Improving predictive models of cognitive complexity using an evolutionary computational approach: a case study
+Eucalyptus: a web service-enabled e-infrastructure
+Automated conversion of table-based websites to structured stylesheets using table recognition and clone detection
+A real-time adaptive control of autonomic computing environments
+Policy-driven autonomic management of multi-component systems
+A comparative study of pairwise regression techniques for problem determination
+Client certificate and IP address based multi-factor authentication for J2EE web applications
+An audit trail service to enhance privacy compliance in federated identity management
+Window query processing for joining data streams with relations
+The scalability of AspectJ
+Threats on building models from CVS and Bugzilla repositories: the Mozilla case study
+Comparing episodic and semantic interfaces for task boundary identification
+Discovering the shared understanding dynamics of large software teams
+An IDE for software development using tabular expressions
+A test framework for integration testing of object-oriented programs
+Support for OpenMP tasks in Nanos v4
+MultiLoop: efficient software pipelining for modern hardware
+SLA-driven business process management in SOA
+An approach to managing the execution of large SQL queries
+Removing manually generated boilerplate from electronic texts: experiments with project Gutenberg e-books
+A search-based approach for dynamically re-packaging downloadable applications
+Identifying fault-prone files using static analysis alerts through singular value decomposition
+Identifying active subgroups in online communities
+Using web 2.0 to locate expertise
+A trust based approach for protecting user data in social networks
+A service-centric approach to access control and monitoring based on distributed trust
+Using trace sampling techniques to identify dynamic clusters of classes
+Visualisation techniques to support derivation tasks in software product line development
+An interaction visualisation tool for a learning management system
+Sequence-based specification of feedback control systems in Simulink
+Information \'\'bridging\" in a global organization
+Runtime monitoring of web service conversations
+Pattern rewriting for efficient search in partial-order event data
+MAROMinDrift affinity routing for resource management in heterogeneous computing systems
+Out of sight but not out of mind?: Informal networks,communication and media use in global software teams
+Using paper mockups for evaluating soft keyboard layouts
+DBMS workload control using throttling: experimental insights
+Automating SLA modeling
+Capacity planning for service-oriented architectures
+Reliability estimation for large distributed software systems
+A methodological leg to stand on: lessons learned using grounded theory to study software development
+A taxonomy of software types to facilitate search and evidence-based software engineering
+Building highly-interactive,data-intensive,REST applications: the Invenio experience
+OpenMP tasks in IBM XL compilers
+High performance XML parsing using parallel bit stream technology
+Information-theoretic modeling for tracking the health of complex software systems
+Using economic models to allocate resources in database management systems
+Efficient XPath query processing
+NetPal: a dynamic network administration knowledge base
+SIFT: a scalable iterative-unfolding technique for filtering execution traces
+An architecture for providing context in WS-BPEL processes
+Is it a bug or an enhancement?: a text-based approach to classify change requests
+Autonomic tuning expert: a framework for best-practice oriented autonomic database tuning
+Synchronized tag clouds for exploring semi-structured clinical trial data
+Personalized recommendation of related content based on automatic metadata extraction
+Online stroke modeling for handwriting recognition
+Flexible verification of user-defined semantic constraints in modelling tools
+Towards a UML virtual machine: implementing an interpreter for UML 2 actions and activities
+An empirical study of the design and implementation of object equality in Java
+Resource provisioning for cloud computing
+DRACA: decision support for root cause analysis and change impact analysis for CMDBs
+An empirical evaluation of a languagebased security testing technique
+An empirical analysis of the evolution of uservisible features in an integrated development environment
+Diagnosis of recurrent faults using log files
+Identifying components in objectoriented programs using dynamic analysis and clustering
+A lightweight and flexible process for designing intuitive error handling and effective error messages
+The role of agile practices in disaster management and recovery: a case study
+WikiDev 2.0: discovering clusters of related team artifacts
+Exploring the design space of proactive tool support for copyandpaste programming
+An autonomic framework for usercentric communication services
+Incremental model synchronization in model driven development environments
+Offloading compute intensive tasks for insurance products using a justintime compiler on a hybrid system
+Parallel catastrophe modelling on a cell processor
+Cache line reservation: exploring a scheme for cache-friendly object allocation
+Virtualizing high-performance graphics cards for driver design and development
+Enumerating mobile enterprise complexity 21 complexity factors to enhance the design process
+OpenMP tasking analysis for programmers
+Efficient decision tree construction for mining timevarying data streams
+A spreadsheetlike user interface for combinatorial multiobjective optimization
+Modeling service orchestrations with a ruleenhanced business process language
+SLAdriven business process management in SOA
+The evolution of the CASCON community: a social network analysis
+Accessing data through ontologies with ONDA
+Improving program navigation with an active help system
+Requirements attributes to predict requirements related defects
+F007: finding rediscovered faults from the field using function-level failed traces of software in the field
+Sequence diagram to colored Petri nets transformation testing: an immune system metaphor
+XPath query processing improvements
+COVER model pivot view indexing for efficient XML data management
+LLS: level-based labeling scheme for XML databases
+Visual guidance in the exploration of large databases
+Aspect weaver: a model transformation approach for UML models
+Left or right?: spatial arrangement for information presentation on large displays
+Reducing data access latency in SDSM systems using runtime optimizations
+CCMarketplace: a marketplace model for a hybrid cloud
+Business process adaptation on a tracked simulation model
+Lightweight problem determination in DBMSs using data stream analysis techniques
+Integrating MapReduce and RDBMSs
+Efficient processing of monotonic linear progressive queries via dynamic materialized views
+Client-side service composition using generic service representative
+Towards workflow verification
+Approach for generating performance models from UML models of SOA systems
+Automatic video genre categorization and event detection techniques on large-scale sports data
+Diagnosing software using statecharts
+Symptom-based problem determination using log data abstraction
+The Personal Web: smart internet for me
+Spy vs. Spy: counter-intelligence methods for backtracking malicious intrusions
+Towards a requirements-driven framework for detecting malicious behavior against software systems
+An adaptive scheduling algorithm for dynamic heterogeneous Hadoop systems
+Privacy leakage in multi-relational learning via unwanted classification models
+A materialized-view based technique to optimize progressive queries via dependency analysis
+ChuQL: processing XML with XQuery using Hadoop
+Programmer-assisted automatic parallelization
+Parallel data cubes on multi-core processors with multiple disks
+Task scheduling for GPU accelerated OLAP systems
+Enabling automated integration testing of cloud application services in virtualized environments
+Enhancing application robustness in cloud data centers
+YaKit: a locality based messaging system using iCon overlay
+Assisting failure diagnosis through filesystem instrumentation
+Detecting model refactoring opportunities using heuristic search
+Deriving high-level abstractions from legacy software using example-driven clustering
+A dynamic context management infrastructure for supporting user-driven web integration in the personal web
+Object-relational event middleware for web applications
+Towards a framework for migrating web applications to web services
+Complexity analysis: a quantitative approach to usability engineering
+Towards the profiling of scientific software for accuracy
+A QoS-aware decision model for web service development: server-site data services or client-site task services
+Bringing semantics to feature models with SAFMDL
+Email classification with co-training
+Sort-aware query scheduling in database management systems
+Dynamic global resource allocation in shared data centers and clouds
+Partitioning applications for hybrid and federated clouds
+DMVI: a dynamic materialized view index for efficiently discovering usable views for progressive queries
+Collaborative decision making: an implementation of the Delphi approach in a social platform
+Model oriented programming: an empirical study of comprehension
+Grammar-based test generation for software product line feature models
+Conceptualizing and specifying key performance indicators in business strategy models
+SmarterDeals: a context-aware deal recommendation system based on the smartercontext engine
+Surprise: user-controlled granular privacy and security for personal data in SmarterContext
+Crawling rich internet applications: the state of the art
+Web service competition: a new approach to service selection
+WSDarwin: automatic web service client adaptation
+Life and death of software packages: an evolutionary study of Debian
+Connectivity of co-changed method groups: a case study on open source systems
+Automatic communication coalescing for irregular computations in UPC language
+A paradigm shift for mobile interaction: a decade later
+Evidence-based trust metrics in web services
+Minimal broker overlay design for content-based publish/subscribe systems
+A brief history of web crawlers
+Improving spreadsheet test practices
+Using clone detection to find malware in acrobat files
+Proof of retrieval and ownership protocols for enterprise-level data deduplication
+A model-driven approach for promoting cloud PaaS portability
+Regression-based utilization prediction algorithms: an empirical investigation
+MapReduce \"garbage\" collection
+A multidimensional empirical study on refactoring activity
+A source-to-source transformation tool for error fixing
+An empirical study of the factors affecting co-change frequency of cloned code
+Monitoring and diagnosing indicators for business analytics
+Towards semantic data analysis
+Guiding multidimensional analysis using decision trees
+Network latency impact on performance of software deployed across multiple clouds
+Location-aware business process management for real-time monitoring of a cardiac care process
+An infrastructure for secure sharing of medical images between PACS and EHR systems
+Dynamic context extraction in personal communication applications
+Consultant-as-a-service: an interactive and context-driven approach to mobile decision support services
+Revisiting prior empirical findings for mobile apps: an empirical case study on the 15 most popular open-source Android apps
+Industrial scientific software: a set of interviews on software development
+Light-weight software product lines for small and medium-sized enterprises (SMEs)
+Incremental software design modelling
+Cloud-based security services for the smart grid
+Analytics-as-a-service: confluence of big data, cloud computing and software-as-a-service
+NewsCast: an adaptive video stream production and delivery system
+Architecting the enterprise to leverage a confluence of emerging technologies
+Recommender narrative visualization
+From representational state transfer (REST) to representational action state transfer (REAST): enabling smarter web interactions for web task
+Practical language-independent detection of near-miss clones
+Recommending software experts using code similarity and social heuristics
+Involvement, contribution and influence in GitHub and stack overflow
+Monitoring sentiment in open source mailing lists: exploratory study on the apache ecosystem
+The (5+1) architectural view model for cloud applications
+Chorus: an interactive approach to incremental modeling and validation in clouds
+Analyzing auto-scaling issues in cloud environments
+Reverse engineering of object-oriented code into Umple using an incremental and rule-based approach
+Modeling and analysis of video games based on workflow nets and state graphs
+Towards a framework for ontology learning from interactions in natural language and reasoning
+Exploiting social context in personalized web-tasking applications
+Tempesta: a framework for HTTP DDoS attacks mitigation
+Simulation and performance evaluation of the hadoop capacity scheduler
+Mining common morphological fragments from process event logs
+A systematic approach for dynamic targeted monitoring of KPIs
+Relational OLAP query optimization
+The power of system call traces: predicting the software energy consumption impact of changes
+On improving green mining for energy-aware software analysis
+Towards understanding digital information discovery and curation
+Supporting the evaluation of complex search tasks with the searchtrails tool
+Smart big data analytics as a service framework: a proposal
+Derive: finding semantic concepts with property-values from natural language text
+Distributed policy based management for wireless sensor networks to support the internet of things environment
+Static application security testing for crypto-currency ecosystems
+Smart autoflight control systems
+Towards a uniform data model in multi-database environments
+Materialized views in Cassandra
+Optimizing key-value stores for hybrid storage architectures
+Toward a solution for the cloud account delegation problem
+ARDev: a methodology based on scrum principles to support research management on software technologies
+Category-based user interaction with online user-generated videos: workload characterization
+Exploiting emergent technologies to create systems that meet shifting expectations
+Mitigating dynamic attacks using multi-agent game-theoretic techniques
+Tracking time-varying parameters in software systems with extended Kalman filters
+A study of three MapReduce frameworks
+Adoop: MapReduce for ad-hoc cloud computing
+Optimizing application downtime through intelligent VM placement and migration in cloud data centers
+Automated classification of congestive heart failure severity using time domain, frequency domain and non-linear heart rate variability measures
+Cardinality estimation using neural networks
+Benchmarking the IBM Power8 processor
+MetaFork: a compilation framework for concurrency models targeting hardware accelerators and its application to the generation of parametric CUDA kernels
+Stratified sampling for even workload partitioning applied to single source shortest path algorithm
+Data-dependence profiling to enable safe thread level speculation
+MOTL: a textual language for trace specification of state machines and associations
+Multitenancy benefits in application servers
+Context-aware mobile apps using iBeacons: towards smarter interactions
+The effect of a collaborative game on group work
+An empirical study on change recommendation
+Context extraction in recommendation systems in software engineering: a preliminary survey
+Do developers respond to code stability warnings
+How should we read and analyze bug reports: an interactive visualization using extractive summaries and topic evolution
+Recommending relevant sections from a webpage about programming errors and exceptions
+A monitor-based synchronization approach for Java packed objects
+CrashAutomata: an approach for the detection of duplicate crash reports based on generalizable automata
+Towards convenient management of software clone codes in practice: an integrated approach
+Context-aware real-time video analytics
+To default or not to default: exposing limitations to HBase cluster deployers
+Harnessing the power in your pocket
+Towards a context-aware mobile app management framework
+Towards improved performance and compliance in healthcare using wearables and bluetooth technologies
+A tangible user interface for interactive data visualization
+Pilot study of collective decision-making in the code review process
+Social computing and intelligence: exploring opportunities for the public and the enterprise
+Emerging technologies for enterprise Linux on IBM z systems
+Evolutionary analysis of access control models: a formal concept analysis method
+GitHub\'s big data adaptor: an eclipse plugin
+Requirements-driven design of autonomic application software
+A Bayesian game decision-making model for uncertain adversary types
+ArchiGen: a conceptual form design tool using an evolutionary computing approach
+A concurrent multiway tree using the lazy locking mechanism
+D-ForenRIA: a distributed tool to reconstruct user sessions for rich internet applications
+An effective method for detecting duplicate crash reports using crash traces and hidden Markov models
+An exploratory study on change suggestions for methods using clone detection
+Automatic prediction of the severity of bugs using stack traces
+Base64Geo: an efficient data structure and transmission format for large, dense, scalar GIS datasets
+Combining static analysis and targeted symbolic execution for scalable bug-finding in application binaries
+Consolidation of underutilized virtual machines to reduce total power usage
+Enabling devops for containerized data-intensive applications: an exploratory study
+Evaluation of Python-based tools for distributed computing on the Raspberry Pi
+From relations to multi-dimensional maps: a SQL-to-HBase transformation methodology
+Investigating resource interference and scaling on multitenant PaaS clouds
+Local versus global models for effort-aware defect prediction
+Manifold: an SMT-based declarative language for electronic and microfluidic design synthesis
+MEWSE: multi-engine workflow submission and execution on apache YARN
+MothPad: monitoring pub/sub activity in cyber-physical systems
+Performance analysis roundtrip: automatic generation of performance models and results feedback using cross-model trace links
+Preliminary investigation on user interaction with IBM watson analytics
+Proactive auto-scaling of resources for stream processing engines in the cloud
+Searching stack overflow for API-usage-related bug fixes using snippet-based queries
+Software energy optimization in the cloud
+String deduplication during garbage collection in virtual machines
+TGDB: towards a benchmark for graph databases
+Word representation using a deep neural network
+
+Quality Engineering
+Testing and Quality Engineering
+Broadband Services
+Software Integration
+Challenges in Deploying Distributed Systems
+Parallel Databases
+Languages and Compiler Issues for Distributed Memory Machines
+New Business Opportunities
+Transfer of Technology
+Software Evolution
+C++ Compiler-based Development
+Software Architecture
+Data Integration and Multidatabase Systems
+Commercializing Software
+Documentation and Interfaces
+Software Development Processes
+Advanced Techniques For Software Inspection and Testing
+Understanding Software Systems Using Reverse Engineering Technologies: Research and Practice
+Object-Oriented Analysis of Organizational Activities
+Advanced Optimization for Memory Hierarchies
+Distributed Object Management: A Core Technology for Future Computing
+Combined Tutorial: Object-Oriented Databases and Distributed Database Management-- State-Of-The-Art and Issues
+Software Process Modeling and Definition
+Trends in Object-Oriented Software
+Inside the C++ Object Model
+Incorporating Mobility and Wireless Networks into Distributed Systems
+User-Centered Design
+Design, Implementation, and Performance of Parallel Database
+Architecture and Compiler Issues for Future Generation Microprocessor Architectures- Superscalar, Superpipelined, VLIW and Hybrid
+ISO 9001 Experience Sharing
+Issues in Software Testing and Reliability
+University Relations in a Changing Environment
+Embedded Systems
+Emerging Applications of Database Systems
+Orthogonal Defect Classification
+Software Architecture
+C++ Compiler-based Development Environments
+Distributed Multimedia Applications
+Software Evolution
+Debugging Parallel and Distributed Systems
+64-Bit Computing
+Intelligent Agents
+Optimization of Object-Oriented Programs
+Metrics-Driven Process Improvement
+Relational DBMS Extension Architectures
+Measuring Software Productivity in Canada
+Parallel Computing and Database Systems
+Digital Libraries
+Distributed Applications
+Object-Oriented Database Systems
+Object-Oriented Design Patterns
+Object-Oriented Testing
+Knowing the User
+Software Evolution
+Computer Science Education
+Electronic Commerce
+Data Mining
+Visual Programming
+Computer Animation
+Electronic Commerce
+Documentation in The 21st Century
+Computer Gender Gap I
+Deep Blue
+User-Centered Design Technologies
+Design Recovery and Software Migration
+Managing Large Data Sets
+C++ Debugging and Profiling
+Ownership and Control of Information
+Design Recovery
+Computer Gender Gap II
+Distance Learning
+Security
+Year 2000
+Legal Policy and Issues
+3-D Reality
+Electronic Commerce: Security
+Data Mining
+Distributed Learning in the Future
+Electronic Commerce: Social Impacts
+Year 2000
+Virtual Communities
+Technology Transfer
+Secure Payments
+Technology and the Futures of Women
+Managing Distributed Applications
+Patterns and Frameworks
+Accessing Heterogeneous
+High-Yield Software Testing
+Electronic Commerce: Industrial Solutions
+Animation, Visualization, and Visual Design
+Compiler Optimization
+Industrial Needs for Software Engineering Education
+Wearable Computers
+Java in Universities
+Telemedicine
+Java for High School Teachers
+Software Architecture
+Making Computers Easy: The New Technical Frontier
+High-yield: a measure and motivator for better testing
+Building software tools for people
+Component-based software composition
+Implementing large scale systems using COTS software
+Legacy software systems: issues, progress, and challenges
+Data warehousing and OLAP technology
+Data mining and knowledge discovery
+Parallel and distributed computing for data mining
+XML
+Detecting outliers in large datasets
+Data storage, retrieval and mining in biomedical applications
+Query optimization
+Numerical computing: compiler and library support
+Computational finance
+Electronic commerce 101
+Electronic commerce: performance 101
+Electronic commerce: performance, quality of service, and testing
+Electronic commerce: warehousing, mining, and data management
+Electronic commerce: architecture and solutions
+Electronic commerce: security and secure payment
+Electronic commerce: business, policy, economics, and social issues
+Electronic commerce: user interface, virtual reality, and intelligent agents
+User-centered design for eBusiness
+New directions in user interface design for eBusiness
+Virtual communities
+Legal issues: privacy in the Information Age
+Legal issues: Use of the term \"engineer\" in the IT industry
+Women in technology: a progress report
+Women in technology: tackling the issues
+Work injuries of computer users
+VisualAge for Java
+Software as a landscape: viewing your software from 20,000 feet
+Considering the Human Factor in Software Engineering
+Computer Safety and Ergonomics
+Customer use of VisualAge C++ and VisualAge for Java
+Practical Application of Quality Analysis in IBM Toronto Lab
+Novel Methods and Techniques for Designing the Total User Experience
+Regulation and Policy of e-Commerce: The Trust Agenda
+Electronic Commerce Education
+DB2 Education
+Modeling Customer Preferences for e-Commerce Applications
+Databases for Decision Support
+Privacy, Trust and e-Payment
+Future Women in Technology
+E-Quality: Pragmatic SQE for e-Commerce Applications
+A Study of Quality of Service Requirements and Current Solutions: How do They Match Up
+A Collective Demonstration of Program Comprehension Tools
+User Interface and Agents for e-Commerce
+New I/O Architectures and their Impact on DBMSs
+Networks
+Process, Metrics and the Management of Software Quality
+Electronic Marketplaces
+Software Tools for Computational Biology
+Panel: IP and Joint-Funded Research
+Moving Towards Plug and Play
+Enabling Technologies for E-Commerce
+Developing with Enterprise Java Beans
+Query Optimization for Advanced Database Systems
+Knowledge Management: Moving from Business to Technical and Scientific Domains
+Building Sophisticated Tools Using the VisualAge C++ Code Store APIs
+Performance and Scalability
+Data Management Issues for e-Commerce
+Hands-on: XML
+Hands-on: VisualAge for Java IDE
+Hands-on: Linux
+Hands-on: DB2
+Hands-on: Net.Commerce and NC Host Server
+Hands-on: e-Meetings
+Hands-on: VisualAge for Java Servlet Builder
+Hands-on: Windows 2000
+Hands-on DB2: Part I
+Hands-on Workshop: Introduction to Linux Part I
+Trademarks vs. Domain Names or How to be Seen (and Legal) on the Internet
+IBM Text Analyzer Business Component: Categorization using Supervised Machine Learning
+Capturing and Communicating the Design of the Total User Experience: Part I
+Self-Managed Databases
+Advanced Data Mining Techniques
+Computer Safety and Ergonomics Workshop
+Hands-on DB2: Part II
+Hands-on Workshop: Introduction to Linux Part II
+Capturing and Communicating the Design of the Total User Experience: Part II
+Legal Issues at the Forefront of the Developing Internet: Patents and Copyright
+Topics on Reengineering Legacy Systems to the Internet
+WebSphere Business Components
+IBM\'s New Home for Software Development
+Hypermedia Content Management
+Industrial Mathematics
+Quality is not Important - Perception or Reality? Part I
+Women in Technology: Role Models
+Software Data Interchange with GXL: Introduction and Tutorial
+Hands-on Workshop: Running Linux in a Windows World Part I
+Hands-on MQ Series Integrator: Part I
+e-Business Readiness: A Customer Focused Framework
+Client Technologies
+Quality is not Important - Perception or Reality? Part II
+Database Performance Workshop
+Hands-on Workshop: Running Linux in a Windows World Part II
+Hands-on MQ Series Integrator: Part II
+Women in Technology: Status Report
+Software Data Interchange with GXL: Implementation Issues
+Introduction to Computational Biology
+Mobile Commerce
+Electricity Trading, Risk Management, and On-line Markets
+Ad hoc Communications
+Winning with Strategy: A Practical Introduction to the Valuation of Information Technology Investments
+Hands-On Workshop: VisualAge for Java in a Day Part I
+How to do Inspections when there is No Time
+Managing Your Career at IBM: The Sky\'s the Limit
+Java Performance
+Hands-On XML Part I
+Hands-On Workshop: VisualAge for Java in a Day Part II
+Detecting duplicated and near-duplicated structures in large software systems: methods and applications
+The Role of \"Process\" in Software Testing
+Architectures and Infrastructures for Mobile Interactive Applications
+Query Optimization
+Hands-On XML Part II
+The current state of E-business evolution
+The Use and Abuse of Software Metrics
+Integrating Ease of Use and UCD Techniques in Software Engineering
+Exploring the Frontiers of User-Centered Design
+Improving the Cubicle or Transforming the Work Practice?
+The Testing Team -- Its Role in the Big Picture of Software Development
+Eclipse Help System
+Data Clustering and Pattern Recognition
+A Flexible Cross-Platform Approach to Palm Handheld Data Synchronization
+Messaging Middleware and Publish / Subscribe Systems
+Self-Managing and Resource Tuning Database System
+Debugging WebSphere Applications
+Web Services
+Gathering Feedback at User Conferences
+Web Caching
+The Emerging Consensus on the Software Engineering Body of Knowledge (SWEBOK)
+Bioinformatics Research in Proteomics
+C++ Parser-Analysers for Reverse Engineering
+Software Product Release to Manufacturing
+Software Defect Classifications and Their Uses
+Topics in Mathematical Software
+Legal Issues
+The BEST TESTING Workshop
+Hands-On: DB2 and WebSphere
+Hands-On: Developing Java Applications Using Eclipse
+Enterprise Integration
+Mobile Commerce technology
+E-Commerce System Performance
+Scenarios, stories, and Use Cases in User Centered Design
+Using the WebSphere platform to engineer Component-Based software development - Part I
+Web-based Software Engineering
+Using the WebSphere platform to engineer Component-Based software development - Part II
+Design for Diversity
+Hands-On: VisualAge for Java (VAJ) in a Day
+Hands-On: Websphere Commerce Suite Workshop
+Towards the Standardization of the User Requirements Notation
+Hands-On: Plug-ins development for the Eclipse/WebSphere Studio Workbench Development Platform
+Adoption-Centric Tool Development (ACTD)
+DB2 and SAP ( Hands-on)
+Building SQL Procedures for DB2 UDB(Hands-on)
+Plug-in Development for the Eclipse Platform(Hands-on))
+Getting Started with Websphere Commerce Suite(Hands-on)
+Extending XML Architectures Using Specialization(Hands-on)
+UI Patterns: Should you be using them?
+Technology Transfer
+Accessibility: Everything you need to know
+From Garage to Factory - Where are you? Where do your customers want you to be?
+Computational Approaches for High-Throughput Biology
+Adventures in Eclipse User Assistance
+Web Composer
+Dimensions of Testing
+XML Data Management
+Software Testing at IBM -- Tools of the Trade
+The Fate of Human Computer Interaction Research in Canada
+Messaging Middleware and Publish/Subscribe Systems
+Women in Technology: Taking the Stage, Achieving Leadership Presence
+Who Tests Best? How Do They Do It? (Module 1)
+DB2 Web Services - What Can I Do Today ?(Hands-on)
+Engineering the User Experience
+Women in Technology: Coping with the Imposter Syndrome
+Grid Technology Overview and How to Build Grid Services Using OGSA Toolkits
+Workshop on Compiler-Driven Performance
+Pattern Recognition and Prediction
+Beyond the Next Release
+Transitioning Web Information System to Enterprise Java Environment
+Application Developer in a Day(Hands-on)
+Web Services(Hands-on)
+Individual Differences in Collaboration and Communication: Participatory Testing
+Enterprise Integration & Web Services
+Building a Solution for Web Service and Web Application Hosting
+Compiler Instruction Scheduling and Mathematical Optimization
+What Do Satisfaction Ratings Really Measure?
+Undergraduate Software Engineering Course Projects
+Legal Issues
+Pervasive Computing: Present and Future
+Research Directions in Distance Learning
+VisualAge C++ Version 6 on AIX and XL Fortran Version 8 on AIX
+Introduction to Programming the GUI Interface in Linux(Hands-on)
+SVG - An Effective Solution for Smart Cross-Platform Graphics
+XML and Xerces2(Hands-on)
+Enhancing Visual User Interface Design through User Testing
+Who tests best? How do they do it? (Module 2)
+SQL Procedures as Web Services
+SQLJ, the Alternative to JDBC : What\'s New in DB2 UDB Version 8.1 and WebSphere?
+Automation and WSADIE
+Developing Web Services using WSAD 5.1
+Application Developer in a Day
+DB2 Information Integrator - The way to Enterprise Information Integration
+Heuristic Evaluation vs. User Testing for Discovering Usability Problems
+Women in Technology
+Policy and Service Level Agreements: Their Role in Automated Management in Systems
+The BEST in WebApp & E-Commerce TEST including Open Source Testing Framework
+The Technology Transfer Cycle
+Specification-Based Testing
+Re-Engineering Towards Web Systems
+Aspect Orientation: Research and Practice
+Web Services - Choreography and Orchestration
+Autonomic Computing Data Collection Architecture and the Eclipse Hyades Framework
+XML Standards
+2nd Workshop on Compiler-Driven Performance
+Modeling J2EE applications using UML and Rational XDE/Designing UML diagrams for technical documents
+Materials for Educating Young People About Software
+XML Query Processing
+IBM Scholars Program: Building Tomorrow\'s Business and Technology Leaders Together
+Software Development Methodologies in an On Demand Environment
+Intellectual Property Issues
+Mobile Commerce: A Business Perspective
+Eclipse as a Platform for Research and Teaching
+Adapting the UCD Methodology to the New Economic Environment
+Scenario-Based Development
+Software Testing -- Big Blue and Beyond (with a second half on Translation Verification at the Lab
+Integration of J2EE Applications with WebSphere Portal
+An Overview of Soot, a Tool for Analyzing and Transforming Java Bytecode
+XML Technologies and their Web Applications
+Knowledge Domains and the Development, Maintenance, and Use of\nSoftware
+Visualising and Integrating Asynchronous and Synchronous Collaboration
+Application Development Tools in the On Demand Era
+Automated Reasoning and its Applications
+Automation--Lessons Learned
+Introduction to the Eclipse Modeling Framework (EMF)
+Messaging Middleware and Publish/Subscribe
+Categorical Data Analysis with Applications to Data Mining and Bioinformatics
+Mining Legacy Assets
+WebSphere Commerce Express
+Data and Services in Pervasive Computing Environments
+Privacy Regulation and the Growing Need for Technology Solutions
+Introduction to the Rational Unified Process®
+Innovative User Experiences and Challenges
+User Experience Engineering Aerobics
+Hands-on: Extreme Construction: Introduction to Agile Development (XP)
+Hands-on: Introduction to developing Web services using IBM technology
+Hands-on: Application Developer in a Day
+Hands-on: Simplifying Database Administration with DB2 Express
+Hands-on: Aspect-Oriented Programming with AspectJ
+The Third Canadian Working Conference on Computational Biology (CCCB\'04)
+Hands-on: Model Driven Development Using Rational XDE Pattern and Code Template Tools
+Hands-on: Introduction to Database Concepts and SQL using the DB2 Detective Game and the DB2 Scholars Program
+Hands-on: Tivoli Intelligent Orchestrator
+Hands-on: J2EE Application Development for Enterprise Information Systems
+Brainstorming the Problem of Declining Enrollment in Computing Programs in University
+Content and Application Customization for Pervasive Computing
+Database Security and Privacy
+The Production of Accessible Software -- Issues and Challenges
+BEST Metrics and BEST Tests are What\'s BEST for the Customer!
+QUALITY METRICS, the key to your TEST SUCCESS
+Performance Architecting for Successful WebSphere Commerce Solution
+Self-Managed Systems: Research and Practice
+From Requirements to Software Architectures
+Hands-on: Specialization with DITA XML
+Hands-on: Xalan and XSLT: A Brief Introduction and Hands-On Session
+Hands-on: Tivoli Intelligent Orchestrator REPEAT
+Intellectual Property Issues with Open Source Development
+The Future of Teleconferencing Applications: A State of the Art Review
+Interoperability and Worldwide Web Services: Challenges and the Way Forward
+Women in Technology: Global Transformation
+Integrating Agile Methods and User-Centered Design
+How Usable is Your Product? New Customer-Oriented Approaches to Testing a Product\'s Usability
+Model-Driven Technology in Business Application Development
+Technologies and Applications of Autonomic Computing
+Building Customizable On-Demand Applications
+Identity Theft and Management: Business, Legal & Technical Perspectives
+Paradigm Shift: From Relations to XML
+Third Workshop on Compiler-Driven Performance (CDP)
+Hands-on: The New DB2 Security Plug-in Infrastructure
+Hands-on: DB2 Information Integrator - What is the magic behind it?
+IBM Academic Initiative: Curriculum Workshop
+Intellectual Property Rights Management for Collaborations and the Web
+Use Cases and Scenarios in Product Development
+Managing Distributed Project Teams: Lessons Learned
+Aspect Oriented Software Development for the Enterprise
+Semantic Web Services
+Policy-Based Management: A Dynamic Approach to an On-Demand World
+Industry Building Blocks Life Cycle For On-Demand Industry Solutions
+Applications of Automated Reasoning
+Effect on Development of Synergistic Testing in an On Demand Environment
+Hands-on: Dive into Eclipse and the Web Tools Platform Project
+Hands-on: Introduction to the Latest Popular Technologies
+Hands-on: Using Web Services in the Web Tools Platform (WTP)
+Hands-on: The Eclipse Modeling Framework
+First Impressions: The Importance of Installation Documentation
+Hands-on: Aspect-Oriented Programming with AspectJ
+Hands-on: Rational Application Developer in a Day
+Cybersecurity
+Fourth Workshop on Compiler-Driven Performance (CDP)
+Systems Biology: The Fourth Canadian Working Conference on Computational Biology
+Hands-on: Leveraging Open Source Software using Apache Derby, for Java Developers
+Beyond the Phone: Re-Inventing Voice Communication and Collaboration with VoIP
+Tenth Workshop on Women in Technology: Global Transformation for Women & ICT
+The Engineering of Autonomic Software Systems
+Software Requirements for Large-Scale Development Projects
+Second International Workshop on Software Engineering Course Projects (SWECP\n2005)
+Architecture and Compilation Techniques for CELL
+Hands-on: How to Take Advantage of RSM/RSA via Extensibility
+Hands-on: An Introduction to Xalan and XSLT
+Hands-on: Leveraging Open Source Software using Apache Derby, for PHP Developers
+IBM Academic Initiative: Curriculum Workshop
+The Business of Blogging: Being Social in a Pervasive, Networked World
+The Second Workshop on Self-Optimizing Systems
+Experiences with Building SOA Business Processes
+Quality-Based Process and Cost-Effective Project Management
+Model-Driven Development and Evolution of Business Applications
+Hands-on: Data Center Automation with Tivoli Provisioning Manager 3.1
+Hands-on: Use Patterns to Speed up Model-Driven Software Development
+Hands-on: DB2 UDB High Availability Disaster Recovery
+Services Science, Management, and Engineering
+Can XML Messaging Technology Deliver on the SOA Promise?
+Challenges for Parallel Computing
+Issues and Challenges of Distributed Test Teams
+Designing from the Outside In
+Trends in Aspect-Oriented Software Development Research
+Analysis of Code Duplication in Software
+Hands-On: Introduction to AJAX Technologies - Part 1: An Overview
+Hands-On: Introduction to Ajax Technologies - Part 2: Using Dojo
+Hands-On: Rational Application Developer in a Day
+Hands-On: DB2 XML  A True XML and Relational Database
+Hands-On: Hello, World! Series: Learn 9 IBM Products in a Day
+Fifth Workshop on Compiler-Driven Performance
+Agile for All: Supporting the Human Element in Agile Development
+Hands-On:DB2 Data Level Security with Label Based Access Control
+Hands-On: Writing for the Web
+Hands-on: Introduction to Social Computing Technologies
+Hands-on: Building a Ruby on Rails application with DB2 Express-C 9
+Applying the CAS Collaborative Model to Services Research
+Radical Simplification
+Leveraging CELL: Proven Techniques, Common Issues and New Applications
+Tools and Technologies to Enable Model-Driven Engineering
+The 3rd Workshop on Engineering of Autonomic Software Systems
+Notes from the Field: Pain Points and Lessons Learned in Managing Software Projects
+Effects of Service-Orientation on the Software Development Lifecycle
+CanDB
+Hands-On: Create, Test, and Consume Web Services with the Eclipse Web Tools\nPlatform
+Hands-On: Business Process Modeling and Simulation in an SOA Environment
+Challenges for Parallel Computing
+Service Oriented Architectures: Applying SOA in eScience Applications
+Social Computing: Best Practices
+Model Fusion
+Database System Evolution: Charting the Future
+Sixth International Workshop on Graphical Documentation: Evaluating the Fidelity of UML Diagram Tools
+Design and Construction Using the IBM Rational Software Development Platform
+RFID for Sense and Response Applications
+Third Annual Workshop on Self-Optimizing Systems
+CASCON 2006 High School Teachers\' Technology Workshop
+Hands-On: In Search of Enterprise Search
+Hands-On: Web Applications with PHP and DB2 Software
+Hands-On: The Eclipse Modeling Framework 2.2
+Quality, the Critical Evolution for Software Development Education, Business, User Satisfaction and Career Success in the 21st Century
+Women in Technology: New Strategies to Attract a New Generation of Girls
+Third International Symposium on Software Engineering Course Projects (SWECP 2006)
+Services Science: Technological and Business Issues
+Virtualization and the Management of Information Services *
+Performance and Continuous Availability Challenges for Today\'s On Demand e-Business
+Social Computing: How the Social Web (R)evolution is Changing the Business\nLandscape
+SOA Adoption Workshop
+Agile@IBM
+Open Innovation
+Hands-On: Introduction to Ajax Technologies
+Hands-On: Service Oriented Architecture (SOA) in a Day
+Hands-On: DB2 pureXML  A True XML and Relational Database
+Hands-On: Securing XML and Web Service Applications using IBM WebSphere\nDataPower SOA Appliances
+Second Working Conference on Social Computing and Business
+Compiler-Driven Performance
+Perspectives on Rational Portfolio Manager
+Hands-On: Introduction to JAX-WS Web Services using IBM WebSphere Feature Pack for Web Services
+Hands-On: Learn About Adobe Flex
+Hands-On: Lotus Connections
+Hands-On: Hacking Web Applications 101
+Software success: a sum of customer details
+Effective Software Testing: Tools and Strategies for Project Success
+Providing a Predictable Distributed Java Application Platform via Real Time\nTechnologies
+Addressing the Services Science, Management, and Engineering Curriculum: Now and Future
+Business Process Management in a Service-Oriented World
+Cell BE and Heterogeneous Multicore Systems: Architecture, Tools, and Applications -- Part 1
+User Interface Design for Desktop and Web 2.0 Applications
+Fourth International Workshop on Engineering Autonomic Software Systems
+Hands-On: Introduction to the Ruby on Rails Open-Source Environment Using DB2
+Hands-On: Performance Analysis Tools for Eclipse-based Applications
+Hands-On: Business Process Modeling and Simulation: An SOA Adoption using\nWebSphere Business Modeler
+Innovation for Today and the Fast-Paced World of Tomorrow
+Cell BE and Heterogeneous Multicore Systems: Architecture, Tools, and Applications -- Part 2
+SOA Research Challenges: A User Perspective
+Driving Integrated Solutions: GreenThreads and related methodologies
+Web-scale Software Performance and Development
+Super Computers are So Yesterday; The Future of R&D Belongs to the Mainframe
+2007 High School Programming Competition
+Addressing the Urgent Declining Enrollment Issue
+Hands-On: Unleashing WebSphere Business Monitor
+Hands-On: Second Life in Half-a-Day
+Building a Strategy to Increase Female Enrollment in Computer Science and\nEngineering in Canada
+Towards a Research Tradition in Services Science, Management, and Engineering
+Traceability in Software Engineering  Past, Present and Future
+The Last Mile in Software Delivery
+Third Workshop on Challenges for Parallel Computing
+Adaptive systems
+4th International Symposium on Software Engineering Course Projects
+SOA Best Practices
+Challenges of Model-Driven Engineering
+Hands-On: Project Zero
+Architecture for Web Applications
+Cell BE and heterogeneous multicore systems: architectures and applications
+Hands-On: Service Oriented Architecture (SOA) in a Day
+Hands-On: Introduction to Ajax Technologies
+Issues and Topics on SOA Programming Models
+Workshop on Cybersecurity: Research and Use Cases in Internet Applications Security and Privacy
+Hands-On: The Cell BE application programming experience!
+Hands-On: Web 2.0 meets SOA with Apache Tuscany SCA
+Hands-On: Introduction to Web Services Development with Rational Application Developer 7.5
+Business Process Management in a Service-Oriented World
+Data Stream Management
+Research Progress in Service Science, Management, and Engineering
+Best Practices for Developing High-Performance Java Applications: A Java Virtual Machine Perspective
+End User Development of Enterprise Mashups
+Fifth International Workshop on Engineering Autonomic Software Systems - Day 1
+An Innovative Solution for Automated Software Testing
+Hands-On: Real-time data integration through change data capture
+Hands-On: Hacking Web Applications 101
+Software Engineering for Science
+Business Event Processing
+Exploring the full capabilities of Project Zero (IBM WebSphere sMash)
+Fourth Workshop on Challenges for Parallel Computing
+Requirements-Driven Business Process Modelling and Performance Management
+Fifth International Workshop on Engineering Autonomic Software Systems - Day 2
+Women in Technology: Attract, Retain, Excel
+sing WebSphere Business Modeler & WebSphere Integration Develo
+Hands-On: Service Component Architecture - A Simpler Architecture for SOAs
+Hands-On: Developing FLEX applications
+Hands-On: Rapid web development with Grails and Groovy
+Technology Curriculum for the Information Society
+An Open Roundtable on \"Technopreneurship\" - The new corporate skills imperative or Computer science is dead. Long live computer science.
+SOA Research Challenges: Current Progress and Future Challenges
+User interfaces for visualizing complex data
+Cloud Computing
+Web based tools: Challenges and opportunities
+Seventh Workshop on Compiler-Driven Performance
+The SOA Programming Model: Challenges in a Services Oriented World
+Applying Agile Practices to Drive Continuous Improvement: A Measured Approach
+Smart Internet Technologies Working Conference (SITCON)
+Flexible Modeling Tools
+3rd International Workshop on Cloud Computing
+Service Oriented Architecture (SOA) in a Day
+Building Web applications with Ruby on Rails and DB2
+Workshop on Cybersecurity: Security and Privacy in the 21st Century
+8th Workshop on Compiler-Driven Performance
+Change data capture - what is it and how it impacts solutions architecture.
+Improving Development Intelligence
+Bridging the Business-IT Gap using BPM: Challenges and Opportunities
+Reliable Messaging for SOA with WebSphere MQ
+Lifecycle of Composite Business Applications enabled by WebSphere Business Process Management
+SOA Governance
+Notification Design in Collaborative and Social Networking Environments
+3rd Event-driven Business Process Management Workshop (edBPM)
+Challenges for Parallel Computing
+1st International Workshop on Software Testing in the Cloud (STITC 2009)
+Daily Scrums in a Distributed Environment
+Workshop on Automatic Service Composition
+The \'X\' Side of Cobra  Re-Emergence of pureXML in DB2 9.7
+Practical Ontology Infrastructure
+Women in Technology (WIT)  Why it\'s a business issue, Inspiring practices and Technical leadership against all odds
+CASCON High School Programming Competition 2009
+2nd CASCON Workshop on Software Engineering for Science
+User Interfaces for Visual Analysis and Monitoring in Business Intelligence
+Deploying PHP applications on IBM DB2 in the cloud: MediaWiki as a case study
+Root Cause Analysis and Diagnosis in SOA and Cloud Environments
+Advancing Privacy AND Security in Computing, Networking and Systems Innovations through Privacy by Design
+Impact of Multi-Organizational SOA Implementation on the Software Life Cycle
+Special Session on Information Security-related Issues in an International Setting
+Software Engineering 2.0 & Research 2.0
+IBM InfoSphere Streams - Event processing for a smarter planet
+Sensor-Based Support of Clinical Contexts in Hospitals
+E-Health Interoperability and Smart Interactions in Healthcare
+Virtuoso Business Mashups - Building situational applications in the Cloud in record time
+5th International Workshop on Adoption-Centric Software Engineering (ACSE 2009)
+Develop SOA Applications using Rational SCA Tools
+Accelerate your educational tutorials development with Technology Explorer for IBM DB2
+Service Interaction Patterns
+Software Research and Climate Change
+An Introduction to Data Mining and Predictive Analytics
+Developing Mashup Applications Using IBM Cognos 8\'s Mashup Service
+Effective Collaboration and Consistency Management in Business Process Modeling
+Introduction to IBM Cognos 8 Business Intelligence
+Next Generation Business Intelligence (BI) Tools
+The 4th International Workshop on Cloud Computing
+Web Data Processing on the Cloud
+Accelerate Service Integration in your BPM/SOA Applications
+Achieving Business Agility with WebSphere ILOG JRules and WebSphere BPM
+Business Process Management (BPM) in a Day
+Cybersecurity Issues for Businesses
+Develop SOA Applications Using Rational SCA Tools
+Issues and Challenges Leveraging REST Architectural Style in Enterprise Service Systems
+Migrating to SOA: Approaches, Challenges, and Lessons Learned
+Modeling and Implementing a Business Process Using WebSphere Lombardi Edition 7.1
+The 2nd Workshop on Practical Ontologies
+Workshop on Automatic Service Composition
+DB2 LUW Optimizer: A Beginner\'s Guide
+DB2 Security Features: Audit Facility and SSL
+Use DB2 Optimization Techniques to Get and Maintain a Good Query Execution Plan
+Cache-oblivious Algorithms, a Key to Better Performance
+Emerging Trends in Network Forensics
+Parallel Algorithms for Multi-Core and Many-Core Processors
+The Centre on Innovation for Information Visualization and Data Driven Design
+Virtual Worlds for Modeling Complex Processes between People and Systems
+2nd Annual Workshop on Interoperability and Smart Interactions in Healthcare (ISIH)
+Application of Visualization Technologies in Journalism to Enhance Public Knowledge
+Building Smarter Web Applications with HTML5
+Dynamic Context-Aware Applications: Approaches and Challenges
+Mobile Computing Research and Education: Bridging the Gap between Academia and Industry
+New Methods for Clinical Decision Support in Hospitals
+9th Workshop on Compiler-Driven Performance
+Challenges and Opportunities in Applying Research Prototypes and Findings into Industrial Practice
+Developing Scalable Java Applications
+Hands-on: Creating XML Solutions with DB2 pureXML and WebSphere Application Server
+3rd CASCON Workshop on Software Engineering for Science
+High-Performance Computing with Sparsity and Structure: Challenges and Directions for Single-Core and Multicore Hardware
+High School Programming Competition
+Integrated System Diagnosis and Root Cause Analysis
+6th Workshop on Challenges for Parallel Computing
+Smart Surveillance System Applications
+Smarter Innovation Process for the Enablement of a Smarter Planet
+Software Certification Consortium: Certification Methods for Safety-Critical Software
+Strategic Dialogue Toolkit: Facilitated Methods for User Experience & Design Research
+IBM Canada Centre for Advanced Studies (CAS) ResearchTwo Decades of Research and Innovation
+NRC Institute for Information Technology
+NSERC Business Intelligence Network: Selected Topics
+Next-generation, scalable network visualization and analysis
+Business Analytics Trends and Opportunities
+Workshop on Information Management for Situational Analytics
+An Introduction to Data Mining and Predictive Analytics
+Using Kerberos to provide secure authentication for DB2
+ONTORULE: From Business Knowledge to Ontology- and Rules-based Applications
+DB2 performance measurement and tuning hands on exercises
+Security Tools - TSIEM and AppScan Source for Security
+Crunching Big Data in the Cloud with Hadoop and BigInsights
+DB2 Security Features: Label Based Access Control and Trusted Contexts
+DB2 LUW OPTIMIZER: Beginner to Intermediate Guide
+The 3rd Workshop on Automatic Service Composition
+2nd Workshop on Leveraging REST in Enterprise Service Systems
+Privacy and Security of Smart Grid Communication
+Challenges for Parallel Computing
+Introduction to Bitcoins: A pseudo-anonymous electronic currency system
+3rd Annual Workshop on Interoperability and Smart Interactions in Healthcare (ISIH)
+Second Symposium on the Personal Web
+Smarter Commerce  Innovative Customer Scenarios Powered by the Combined Impact of Innovative Technologies
+Software Modeling for Embedded and Mobile Sensor System
+Hands-On OSGi Tools in a Day
+An Introduction to Java Development Kit 7
+Portlet Development with Spring Portlet MVC and WebSphere Portal V7
+10th Workshop on Compiler-Driven Performance
+Using IBM Rational Application Developer to develop enterprise applications with Java EE,Dojo Server Faces and interconnecting them using SOA
+2nd Software Certification Consortium Workshop: Theoretical Basis for System and Software Engineering Practices and Certification
+3rd International Workshop Software Testing in the Cloud (STITC 2011)
+The 5th International Workshop on Cloud Computing
+Smart Applications on Virtual Infrastructure
+2nd Workshop on Smart Surveillance System Applications
+Introduction to the IBM Netezza Warehouse Appliance
+IBM Canada Centres for Advanced Studies (CAS) Research Innovation through Collaboration
+NRC Institute for Information Technology
+SmartGrid: Analytics for the Electric Grid of the Future
+Analytics of Big Data generated by Healthcare and Personalized Medicine domain
+Research in Software Analytics
+Social Ontology and Semantic Actions
+IBM Community Hackathon 2012
+11th Compiler-Driven Performance Workshop
+Crunching Big Data with Hadoop and Big Insights in the Cloud
+Business Process Management (BPM) in a Day
+SAVI Smarter Applications for the Enterprise
+Introduction to IBM Workload Deployer and Pure Application System
+New Approaches to Optimize Hardware and Software for Big Data Analytics
+3rd Workshop on Smart Surveillance System Applications
+Workshop on Mobile and Rich Internet Application Model Generation
+Introduction to tools for Liberty profile in RAD and WDT
+Technology Adoption and Assessment of Linked Data
+3rd Workshop on Leveraging REST and Web Technologies in Enterprise\nService Systems
+Cloud Infrastructure for a Smarter Planet
+IBM Worklight Hands-On Workshop
+Understanding DB2 LUW Optimizer and Automatic Table Maintenance
+Google\'s Go and Dart: Parallelism and Structured Web Development for\nBetter Analytics and Applications
+Ultra-large scale services
+CAS Research 2012: Innovation impact
+WIT Luncheon: Inspiring the Aspiring
+4th Annual Workshop on Interoperability and Smart Interactions in Healthcare\n(ISIH)
+7th Workshop on Challenges for Parallel Computing
+Netezza as the Centre of Business Intelligence and Analytics Environment
+Situation-aware Smarter Commerce
+Visualizations for Smarter Analytics
+DIANE (Domain Informatics Analytics for Enterprise): A Smartly Integrated\nEnterprise Platform for Consumable Informatics
+DB2: What to do when problem arises?
+4th Workshop on Leveraging REST and Web Technologies in Enterprise Service Systems
+Clojure: Modular Programming with Functional, Concurrent Language on the JVM
+First International Workshop of Advancement from Confluence of Emerging Technologies (ACET)
+Workshop on Financial Risk Analytics
+2nd International Workshop on Load Testing of Large Software Systems (LT 2013)
+Big Data and Analytics
+5th Annual Workshop on Interoperability and Smart Interactions in Healthcare (ISIH)
+Challenges in Mobile Apps: A Multi-Disciplinary Perspective
+Smart Applications on Virtual Infrastructure (SAVI)
+Worklight : Responsive Web Design for Multi-Channel Application Development
+Business Process Management (BPM) in a Day
+12th Compiler-Driven Performance Workshop
+Liberty Collective
+Quality Software for Quality Service (QS4QS)
+8th Workshop on Challenges for Parallel Computing
+2013 IBM CASCON Community Hackathon
+CIVDDD Collaborative Research in Big Data Analytics and Visualization
+Challenges and opportunities of mobile app development
+Real Time Patient Flow Management using Business Process Management, Location Tags, and Complex Events Processing
+Smart City Infrastructure Management
+IBM Pure Application System Pattern Development and Deployment
+Hardware Acceleration Technologies
+Facilitating Collaboration and Interaction across the Enterprise with OSLC
+2nd International Workshop on Personalized Web Tasking
+5th Workshop on Cloud Computing
+Introduction to IBM Interaction Server for Enterprise and ScribbleApp
+Master Data Management fundamental and integrated solution
+Convergent paradigms in the Internet of Things (CT-IoT)
+Enterprise application development in the cloud with IBM Bluemix
+9th Workshop on Challenges for Parallel Computing
+Mobile application with IBM Bluemix and social services (using Apache Cordova and RAD)
+Big Data Analytics using Hadoop
+Hands-on: Introduction to tools for Liberty profile in RAD and WDT with web services
+The 6th Workshop on Interoperability and Smart Interactions in Healthcare -\n\"Interoperability in Context\"
+13th Compiler-Driven Performance Workshop (CDP)
+Personalized Web tasking
+Mobile Application Development with IBM Worklight and IBM BlueMix
+Business Process Management (BPM) in a Day
+Accelerating Analytic Queries in OLTP environment using DB2 Shadow Tables
+Acceleration of Cloud Computing
+Workshop on Financial Risk Analytics
+Personalized Web tasking
+Introduction to Node.js
+Move upGrade with DB2 V10.5 BLU
+IBM Community Hackathon 2015 - Bluemix (IBMers-Only)
+Workshop on Financial Risk Analytics
+Remote Patient Monitoring to Improve Health: Challenges and Opportunities
+Agile Software Development for Bluemix with IBM DevOps Services
+Fourth Annual Mobile Application Development with IBM Bluemix and IBM Mobile First Platform
+Introduction to Developing Java EE 7 Applications using WebSphere Application Server Developer Tools for Eclipse (WDT) and Liberty Profile
+Building Your Own Language Runtime
+Data Science Workshop: Experience Driven Analytics
+Role play - Learn to secure resources and APIs effectively using OAuth and OpenID Connect standards
+10th Workshop on Challenges for Parallel Computing
+Workshop on the Application of Security and Testing to Rich Internet Applications
+Introduction to Debugging and Monitoring Node.js
+Developing Java and JavaScript Applications on Bluemix using IBM Eclipse Tools for Bluemix
+DB2 LUW Native Encryption
+Developing next generation analytics applications on LinuxOne end-to-end Architecture and Implementation
+Collecting and Analyzing Depression Notes Using IBM Social Media Analytics
+Commercialization of Technology Research for Benefit
+14th Compiler-Driven Performance Workshop
+Introducing IBM Watson Analytics into Curricula and Programs
+The 7th CASCON Workshop on Cloud Computing
+Getting Started with DB2 V10.5 BLU
+Business Process Management in a Day
+Taming a Tiger - Software Engineering in the Era of Big Data & Continuous Development
+WiT - Memoirs from a Nobody
+Engineering Cyber Physical Systems
+Building IoT-enabled Applications
+First symposium on the Personal Web
+Data-driven knowledge mobilization
+Evidence based analytics - case studies
+SOSCIP: supporting partnerships and innovation in advanced computing & big data analytics
+Workshop on financial risk analytics
+Hands-on: API economy workshop - building disruptive digital applications using APIs
+Hands-on: build and package a highly scalable microservice application using docker containers
+Microservices in the modern software world
+The 8th CASCON Workshop on Cloud Computing
+11th Workshop on Challenges for Parallel Computing
+Action languages and precise modeling for cyber-physical systems design and testing
+The workshop on compiler-driven performance
+Engineering cybersecurity in cyber physical systems
+Hands on experience on application security on cloud
+Hands-on: enterprise key management support in DB2 for LUW V11
+Hands-on: fifth annual cloud application development workshop - using cognitive services in bluemix
+Hands-on: transforming public consultation into civic engagement
+IBM 2016 community hackathon
+IBM cognitive tools in research and education
+Continuous software engineering: challenge areas and frameworks
+Hands-on: design, discover and expose REST APIs with WebSphere, open source and bluemix
+Hands-on: microservices on NodeJS
+Establishing a successful industry-academia R&D project
+Hands-on: close encounter with APIConnect and LoopBack
+Hands-on: implement your first blockchain solution
+Rethinking collaborative innovation
+
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (1, 'Unknown', 1992, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (2, 'Unknown', 1992, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (3, 'Unknown', 1992, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (4, 'Unknown', 1993, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (5, 'Unknown', 1993, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (6, 'Canarie and Canada\'s Information Highway', 1994, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (7, 'Object-Oriented Issues and Relational Technology', 1994, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (8, 'Integration and Usability: Human-Centered Solutions', 1994, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (9, 'The Reuse of Lessons Learned in VLSI CADor How to Stay Useful in a Changing World', 1996, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (10, 'Competing in a Networked World', 1996, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (11, 'Four Keys to Success in Tomorrow\'s World', 1996, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (12, 'Technology at Zero Gravity', 1996, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (13, 'OO Technology Trends and Directions', 1996, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (14, 'Deep Blue: The IBM Chess Machine', 1996, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (15, 'Parallel Processing and the IBM Deep Blue Chess Computer', 1997, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (16, 'The Interface of the Future', 1997, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (17, 'Year 2000', 1997, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (18, 'Challenges for Computer Science in Electronic Commerce?', 1997, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (19, 'Universal Virtual Machines- Object Engines for Business and Engineering', 1997, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (20, 'Unknown', 1998, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (21, 'Unknown', 1998, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (22, 'Unknown', 1998, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (23, 'Unknown', 1998, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (24, 'Unknown', 1998, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (25, 'Unknown', 1999, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (26, 'Unknown', 1999, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (27, 'Unknown', 1999, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (28, 'Unknown', 1999, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (29, 'Unknown', 1999, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (30, 'Unknown', 2000, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (31, 'Unknown', 2000, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (32, 'Unknown', 2000, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (33, 'Unknown', 2000, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (34, 'Unknown', 2000, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (35, 'BlueSpace', 2001, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (36, 'The Importance of Giving Back and Reaching Back', 2001, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (37, 'Media Lab 2.0: Learning and Expression by People and Machines through Technology Enablement', 2001, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (38, 'Nanorobotics', 2001, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (39, 'Less is more (more or less)', 2002, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (40, 'Technology Trends We Cant Avoid In The Evolution of Learning', 2002, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (41, 'Nano Perspectives on Novel Superconductivity and Magnetism', 2002, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (42, 'Deep Computing: Proteins, petaflops and algorithms', 2002, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (43, 'Finding needles in a 20 TB haystack, 200 million times per day', 2003, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (44, 'Query Languages', 2003, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (45, 'Autonomic Computing: The technology behind\nthe message', 2003, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (46, 'IBM\'s User', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (47, 'Transforming the IBM.com User Experience', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (48, 'Challenges and Opportunities for Canada in the Knowledge and Information Age', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (49, 'Interoperability: The Modern Approach to Software-Intensive Systems', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (50, 'Wireless Access to Corporate Data', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (51, 'Specifying and Enforcing Software Architectures', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (52, 'Research Challenges of Autonomic Computing', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (53, 'Human Cognition and Next Generation Computing', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (54, 'Aspect-Oriented Programming', 2004, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (55, 'Emerging Threats: A Challenge On All Fronts', 2005, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (56, 'The Cell for Graphics and Visualization', 2005, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (57, 'How Open Do You Need to Be?', 2005, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (58, 'Autonomic Computing: Innovation that Matters', 2005, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (59, 'The New Era in Computing: Moving Enterprise\nServices onto Grid', 2005, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (60, 'Industry-Academia Collaboration', 2005, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (61, 'Practical Experiences in Designing and Building\nService-Oriented Solutions', 2005, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (62, 'Venture Capital-backed Entrepreneur Successes and Failures - Panel Discussion', 2006, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (63, 'WebSphere - 2006 Technical Themes and Trends', 2006, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (64, 'Collaborative Innovation: A New Lever in\nInformation Technology Development', 2006, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (65, 'Using Generative Design Patterns to Mitigate\nthe Content Creation Crisis in Computer Games', 2006, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (66, 'Technology Leadership: Changing the World for\nWomen and for Technology', 2006, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (67, 'BM is serious about games!', 2006, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (68, 'The Networked Revolution', 2007, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (69, 'Next-Generation Storage and Systems: Opportunities and Challenges', 2007, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (70, 'Sustainability and Technology  Good Partners', 2007, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (71, 'Didn\'t Samuel Solve That Game?', 2007, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (72, 'Web 2.0: Trends in Collaboration, Innovation, and the Changing Workforce', 2007, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (73, 'Software: The Next Frontier of the Automotive Industry', 2007, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (74, 'Model-Driven Development of High Assurance Adaptive Systems', 2007, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (75, 'Toward an intelligent molecular medicine: Fusion of obtrusion, illusion, confusion and integrative\ncomputational biology', 2008, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (76, 'Investigation into the cellular basis of neurological conditions such as stroke and Alzheimer\'s disease', 2008, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (77, 'CAS: From Research Program to Research Commercialization -- The Complete Cycle', 2008, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (78, 'The Extreme Makeover of the Web Experience and the Transformation of the Web Application Architecture to Enable it', 2008, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (79, 'Computing for a Smarter Planet', 2009, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (80, 'Smarter Innovation Through Collaboration', 2009, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (81, 'From Hardware, to Software, to Purpose-ware, to Cloud-ware', 2009, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (82, 'How can Software make the world Greener!', 2009, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (83, 'The Big Deal about Big Data', 2012, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (84, 'Analytics for Smarter Software Development', 2012, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (85, 'Developing a System Thinking Mindset with a Design Thinking Approach in Creating\nTransformational Enterprise Solutions from Smart Integration of latest technologies', 2012, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (86, 'Social Media Data Analytics Research', 2012, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (87, 'Making Analytics Accessible to Non-Analysts', 2012, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (88, 'Next Frontier for Security Intelligence', 2013, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (89, 'Mobile Software Engineering: The Next Revolution?', 2013, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (90, 'Designing Human Experiences and the Internet of Things', 2013, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (91, 'Rational\'s Journey Towards Linked Lifecycle Data', 2013, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (92, 'From Representational State Transfer (REST) To Representational Action State Transfer (REAST):\nEnabling Smarter Web Interactions for Web Tasking', 2013, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (93, 'High-performance computing and \"Big Data\" in integrative cancer informatics. Challenges and opportunities in intelligent molecular medicine', 2014, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (94, 'Embarking on the Cognitive Era with IBM Watson', 2014, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (95, 'Applying Cognitive Work Analysis in the brave new world of mobile, social, wearable interactions', 2014, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (96, 'Frontiers of Mobile Software Practice', 2014, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (97, 'Bluemix: IBM\'s Cloud Foundry', 2014, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (98, 'Data Services in the Cloud: Past, Present and Future', 2015, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (99, 'IBM Internet of Things Point of View and Strategy', 2015, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (100, 'Big Data and a Challenge to IBM to Help Reinvent How We Can Use it in Medical and Imaging Applications in Healthcare', 2015, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (101, 'Analytics Performance: The Role of Parallel Analytics Computation', 2015, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (102, 'IBM Commerce: Leveraging Data Science to Enable Customer and Partner Engagement', 2015, 'FoSP');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (103, 'The Future of Personal Mobility', 2016, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (104, 'Disrupting Developer Productivity One Bot at a Time', 2016, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (105, 'Why University-Industry interaction plays a key role in the \"surthrival\" of the IoT Perfect Storm?', 2016, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (106, 'The Elusive Nature of Context: Why We Need it and Where We Might Find It', 2016, 'Keynote');
+INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (107, 'The Science of Doing Your Best When it Matters Most', 2016, 'Keynote');
+
+COMMIT;
+
+
+-- -----------------------------------------------------
+-- Data for table `CASCONet`.`Demos`
+-- -----------------------------------------------------
+START TRANSACTION;
+USE `CASCONet`;
+X.500 Directory Services Prototype
+ASN. 1 Protocol Decoder
+CORDS Technology Integration
+Shoshin Distributed Debugger
+3 System DCE
+Database Schema Integration
+Multidatabase Services
+SQL 32 OS/2 Database
+XNetMod-Modelling Tool
+MAD-System Management
+NETMATE- Network Management
+CORDS Visualization
+G+ Visualization
+X.500 Directory Simulation
+Concert/C-Distributed Language
+SQL Language
+Graph Layout Toolkit
+Paradise Distributed Programming Work Bench
+CMVC/6000- Library System
+XTIS PCTE- Object Manager
+WORKBENCH/60000 Programming Environment
+Scruple-Reverse Engineering
+Rigi- Analyze Evolving Software
+McGill- Reverse Engineering
+Refine- Program Understanding
+SLIM- Metrics Tool
+Process Engineering
+Marvel Process Environment
+Multi-Colour Programming Environment
+ASDT- 4Thought Design Tools
+Cadre for Process & Modelling
+Mondel- Formal Language Verification
+Lector/G+ - Visualization
+Flexor- Literate Programming
+ASDT G+- Visualization
+Decision Support
+3D Networks
+Multi-Media Stereoscopic Display
+C++ for OS/2
+C Set/2- Programming Environment
+C++/WorkBench- Integration
+FORGE 90- Fortran Tools
+ADM/ADS- AS/400 Programming Environment
+Code/400- Programming Environment
+Marci- Colour Calibration
+Image + Voice
+Image Processing
+Bedrock- Colour Calibration
+Brandywine- Image + Painting
+Multi-Media
+BookManager- GOLI
+Fish Tank Virtual Reality
+Parallel Programming
+Program Visualization
+Shared Multi-Processors
+National Language Support
+MAPLE- (ITRC)
+Symbolic Math
+Ada/6000- Compiler/Environment
+Half QWERTY- One-handed Keyboard
+PROQUEST- Infogate-Library
+French to English Translation
+Telepresence-Office of the Future- ITRC
+Nial-Programming Environment- ITRC
+Mutlicolour Programming Environment- ITRC
+Xerion Neutral Network- ITRC
+Stratus- CRIM Weather Forecaster
+TRIO- Telecommunication Research Institute
+Ontario Centres of Excellence
+CITR- Canadian Institute for Telecommunication Research
+Alias Research Inc.: Designing a Revolution
+The Global Desktop of the Future
+Distributed Interactive Multimedia on the Verge of Reality
+Power Visualization System- IBM Goes Hollywood
+PVS Demo
+IBM VisualAge: A Powerful Revolution in Programming with Object-Oriented Technology
+Recruitment Excellence Program
+The Customer Connection
+Filtering for Quality
+Identifying Redundancy in Source Code Using Fingerprints
+Exploring Large Hyper-Documents: Fisheye Views of Nested Networks
+CORDS Multidatabase Project: Research and Prototype Overview
+Exploiting Uniqueness in Query Optimization
+An Integrated Method of Estimating Selectivities in a Multidatabase System
+Cost, Quality and User Satisfaction of Software Products: A Field Study
+Advances in Computer Systems
+Fault-Based Test Generation for Cause-Effect Graphs
+Collecting Data for Software Reliability Analysis and Modelling
+A Case Study in Class Testing
+An Integrated Architecture for Distributed Applications
+Isochronets: An Architecture for High-Speed Networks
+The Use of Process Clustering in Distributed System Even Displays
+Modelling RPC Performance for the AS/400
+Register Allocations for Optimal Loop Scheduling
+Concurrency Abstractions in a C++ Class Library
+Visualizing Object-Oriented Software in Three Dimensions
+Reverse Engineering
+The Macroscope Tools for Business and Software Reengineering
+An Object-Oriented Testing and Maintenance Environment
+Marvel- Application to Software Development and Collaborative Text Writing
+APACS: An Expert System for Diagnosing Failures in Continuous Processes
+Metaview
+Object-Oriented Software Repository
+Pattern Matching and Structural Analysis
+Redocumentation Tool
+Re-Engineering the Requirements Planning Process/ Software Process Elicitation/ Tool Support for Cooperative Requirements Planning
+BGG Toolset for Predicate-Based Specification Testing
+C Set ++ for AIX
+C Set ++ for OS/2
+A Query Language for Source Code
+Source Code Metrics Analyzer for Smalltalk
+ATAC: a tool for Test Sets Assessment at Unit & System Level
+The HPC Compiler and the EPPP Simulator
+The EPPP Performance Debugger
+Cache Simulator/Animation
+Enterprise: A Parallel Programming System for Developing Parallel Distributed Memory Applications
+ABC++: Object Oriented Computing in C++
+PDDA: Parallel and Distributed Dynamic Analyzer
+Event Display for debugging Distributed Applications
+Database Visualization
+Schema Integration in the CORDS Multdatabase
+Parallel Edition
+Performance Monitor
+DB2 Visual Explain
+4thought with DB2 V2
+Isochronets
+QuAL: Quality Assurance Language
+Management by Delegation
+Multimedia News
+Wireless Mobile Computing
+CORDS Distributed Management
+Techniques for Real-Time Visualization in Data-Rich Environments: Application to the Visualization of Network Traffic & Distributed Computation
+Network Management
+Client/Service Middleware
+Foraging for Information Resources in Cyberspace: Intelligent Agent Search in a Distributed Network
+Desktop Conference Application Development System
+CD Showcase
+Digital 3D Imaging
+Ultimedia Manager/2
+Multimedia for Technical Education
+News-on-Demand Service Prototype
+CASCON kiosk
+Delivery of Electronic News: A Broadband Application
+Three-Dimensional Graph Layout Algorithm
+A Computer-Based Training Module for Smalltalk
+IBM Technical Journals
+GRAIL: Symbolic Computation with Automata
+Open Text Corp.
+Alias Research Inc.
+Beyond Words Six Steps to Intelligent Documents
+Cognitive Robotics Group
+Automating Service Using Expert Knowledge
+Interworking of Traders in a Distributed Computing Environment
+An Architecture for Monitoring and Modeling Network Systems
+Ensuring Responsiveness and Scalability for Distributed Applications
+Parameter Estimation for Performance Models of Distributed Applications
+Performing Replay in an OSF DCE Environment
+Simplification of Outer Joins
+SAMC-Efficient Semi-Adaptive Data Compression
+No Regression Algorithm for the Enumeration of Projections in SQL Queries with Joins and Outer Joins
+Concurrency Control with Lock Preemption and Restoration
+Transaction Scheduling in Dynamic Composite Multidatabase Systems
+An SQL Interface to X.500
+DECALS: Distributed Experiment Control and Logging System
+Enhancing Cleanroom Techniques with Refinement Calculus
+A Comparison-based Approach for Software Inspection
+Analyzing CASE Impact
+The Impact of Interprocedural Class Analysis on Optimization
+Memory Disambiguation for General-Purpose Applications
+Visual Web Surfing with Hy+
+Browsing Local and Global Information
+Making the User Interface Disappear: The Reactive Room
+Software Architectural Analysis
+Using an Integrated Toolset for Program Understanding
+On the Use of Machine-Assisted Knowledge Discovery to Analyze and Reengineer Measurement Frameworks
+An Investigation of Monitoring Configurations
+A Trainable System for the Extraction of Meaning from Text
+The Architecture of an Agent Building Shell
+S/SL Revisited
+Optimized Code Restructuring of OS/2 Executables
+An Approach to Building Quality into Software Architecture
+Teaching Object-Oriented Analysis and Design by \"Cruisin\' the Classifieds for Business Objects\"
+Statecharts Supervision Models for Reactive Systems
+Phased Development of Critical Real-Time Systems in Timed CSP
+A Component Based Software Reliability Model
+Document Classification and Recurrent Neutral Networks
+Layout and Structuring Object Oriented Software in Three Dimensions
+An Object State Test Model: Object State Diagram
+The Environment Understanding Interface: Detecting and Tracking Human Activity through Multimedia Sensors
+Talking Your Way Around a Conference: A Speech Interface for Remote Equipment Control
+Content-based Image Retrieval
+Integrating Visualization into Event Monitoring and Analysis in Distributed Systems Management
+Behavioural Patterns for Software Requirement Engineering
+Using Textual Redundancy to Understand Change
+A Survey of Object-Oriented Reuse
+Reliable Communications in FTL
+Performance Modeling of the Distributed Computing Environment
+Determinants of Service Quality in Software: An Empirical Analysis
+A New Object-Oriented Technique for Building a Dynamic Graphical User Interface
+Towards a Real-Time Object-Oriented Modeling Approach
+Template-based Program Restructuring -- Initial Experience
+Lightweight Video Service for Multi-Media Digital Libraries
+Cause-effect Graphing Analysis and Validation of Requirements
+Current Proposals for Parallel C++
+A New Solution to Test Generation for Boolean Expressions
+Parallel I/O Templates for Enterprise
+The Role of the Personal Computer in the Design and Development of Advanced Life-Support Equipment for Tactical Aircraft
+The Information Highway and Africa
+Development Productivity for Commercial Software Using Object-Oriented Methods
+Automating Real-Time Multi-Threaded Application Development
+Limiting the Probe Effect in Debugging Concurrent Object-Oriented Programs
+A Visual Object-Oriented Development Environment (VOODE)
+Achieving Target-System Independence in Event Visualisation
+Performance Debugging in the Enterprise Parallel Programming System
+Total Mobility Solution
+Internet Enhancements for Audio Conferencing
+Tailored Patient Education Systems
+Distributed Multimedia Technologies
+A WEB-Based Guided Learning Tool
+Web-Based Collaborative Learning
+National Scaleable Cluster Project
+WebSQL- A Declarative Query Language for the World Wide Web
+Information Discovery in the WWW
+Live Web Page: The CAS LWWW Project
+Education and Training Courseware
+Technology Enabled Distance Learnware
+Electronic Procurement for the Professional Purchaser
+Network Computing Applications in the Insurance Industry
+Net Commerce
+Lotus Notes Domino Server
+Virtual Symposium, Distance Learning
+World Purchasing Pro
+Multimedia Whiteboard for Distance Learning
+Java-Enabled TeleLearning System
+IBM Distance Learning Network
+IRIS- A System for Image and Video Retrieval
+The Harmony Real-Time Operating System
+Judging Self-Motion in an Immersive Environment
+Case Advisor
+IBM DB jr. Chess Machine
+Molecular Scene Analysis
+DB2 Java Enablement
+DB2 Information on the WWW
+DB2 Performance Monitor for MVS (DB2 PM)
+Datalinks: Linkage of Databases and Files
+Spatial Data Mining with Maps
+IBM NetQuestions
+DBMiner: A Data Mining System for Large Databases
+DB2/OLE Automation
+SGML Text Databases: Applications and the World-Wide-Web
+Massive Data Systems
+IBM Systems Journal and IBM Journal of Research and Development
+Canadian Institute for Telecommunications Research (CITR)
+Consortium for Software Engineering Research (CSER)
+Information Technology Research Center of Ontario (ITRC)
+National Research Council Canada (NRC)
+PRECARN Associates/Institute for Robotics and Intelligent Systems (IRIS)
+NetMod ATM: ATM Network Modeling and Analysis Tool
+Management of Distributed Applications and Systems
+Performance Issues in Distributed Applications and Systems
+A Performance Workbench
+Performance Engineering for Distributed Applications
+The Software Landscape
+Software Bookshelf Repository
+The Rigi Reverse Engineering System
+Legacy Software Migration using the Software Bookshelf
+Navigating the Textual Redundancy Web in Legacy Systems
+Exploration Tools for Very Large Software Systems
+DATRIX: Source Code Analyzer
+Visual Programming and Application Mock-Up
+Software Architecture Analysis and Software Design Optimization
+xSuds: A Software Understanding & Diagnosis System
+Fully Incremental C++ Environment
+Animated Program Traces and Communication
+VisualAge Generator: Dynamic Application Partitioning
+Configuration Management of Non-Textual Objects
+Object State Testing and Fault Analysis
+View Based Process Model Elicitation
+New Generalizer: Process Model Generalization
+Voyageur Project: Parallel Object-Oriented Programming
+Code Generation for ObjChart: An OOAD tool
+Parallel and Distributed Computing
+IBM XL High Performance Fortran for AIX
+Tools for Applying Design Patterns
+VisualAge C++
+IBM VisualAge for Java
+IBM VisualAge/ C++ Notes Builder
+Concurrent Expressions in C++
+BYPASS2000 for AS/400
+UCDLite Tools
+e-business with VisualAge
+Montana
+Subject-Oriented Programming
+Lemma PU Tool
+Rosetta- Object-Oriented Analysis and Design
+MANDAS 1-POET
+OLT
+Enabling Technologies for Distributed Multimedia
+Visual Grep and Search History Tracking
+Design Pattern Engineering
+Datrix Program Understanding Tool
+Portable Software Bookshelf
+Software Reverse Engineering Tool
+Software Bookshelf
+Software Redocumentation and Migration
+Architecture for Software Reverse Engineering
+Mining Text and Images
+The Garlic Project
+C-BIRD - QBIC for Digital Libraries
+DB2 NT Scaling/Wolfpack
+DB2 AIX SMP Scaleup
+DB2 Universal Database
+Visual Media Management
+Main Memory Databases
+DB2 UDB 5 Tools/Monitor
+Physical Database Design Selection Algorithm
+High Performance Data Mining of Scientific Data on Local and Wide Area Clusters
+UDP Powered Business Intelligence
+OLE DB in DB2 UDB
+IBM Systems Journal
+CITO Introduction
+Book Fair
+iComm: An Internet Community Project
+Virtual-U: Web-Based Collaborative Environment
+University Student Services
+Net.Commerce v2 Online Information System
+WPP- World Procurement System
+Net.Commerce
+Collaborative Virtual Environment
+Insure.Agent
+Electronic Signature Using Smart Card
+WebOQL
+EVE System
+WWW Portfolio of IBM Media Design Studio
+Surf and Buy
+VisualAge Java for AS/400
+A Java Testing and Maintenance System
+VisualAge for Java
+VisualAge for Java: GUI Design
+RPG Source: Java Byte Code
+JAM: Java Agents for Meta-Learning over Distributed Database
+VisualAge Certification
+Case-Based Reasoning
+Invisible Red-Shift of the Asophygus
+DB jr.
+Olympic Showcase
+Playbot
+COVERS- An Object-Oriented Environment for Modelling and Simulation of Real-Time Distributed Systems
+Broadband Services
+NestedVision3D
+Giza Framework: Flexible Visualization Tools for Complex Data Cues to Self Motion
+Xtra, Automating the Translation of XML Document
+Performance Measurement, A Comparison of Java & C++ in E-commerce Applications
+ManplatoSync for Java, An All-Java Solution for PalmOS Data Synchronization
+Power4 Loop Optimizations, Improving Loop Fusion
+Ephedra, C/C++ to Java Migration Environment
+J9 and the Testarossa JIT
+CRM with Data Mining, Stop Customer Attrition using Data Mining
+LEO, DB2s Learning Optimizer
+Tuning Wizard for DB2, Dynamic Memory Tuning for DB2/UDB
+DB2/WebSphere Integration, Web Services in Action Using DB2 XML/Search Extenders
+Piggyback Stats Gathering, Automatic Statistics Maintenance for Query Optimization
+Networked Information, Characterizing the Citation Graph
+DB2 Everyplace, A Relational Database and Enterprise Synchronization
+IBM DB2 UDB and InfiniBand Technology
+XML Indexing in RDBMSs
+Varlet/Babel, Toolkit for Net-centric Legacy Data Integration
+XPERANTO, Middleware to View and Query Relational Data as XML
+Database Tuning Made Easy, DB2 Performance Configuration Wizard
+DB2 Sorting Performance, Large Skewed Data and a Partitioning Technique
+Data Mining for Chairman, Stop Customer Attrition with Data Mining
+Towards Workload-Aware DB
+E-mail Uploaded, File Repository for Sharing Messages and Documents
+DiscoveryLink, Integrated Access To Life Sciences Data Sources
+ToX: Toronto XML engine
+M-Commerce Over Bluetooth, Proximity-based Smart Car Pick-up Application
+Linux on IBM
+CITR: Virtual Mall, Enabling Technologies for Electronic Commerce
+Jumpstart EJB Development, WebSphere Business Components
+WSBC, WebSphere Business Components Studio
+Text Analyzer, An IBM Websphere Business Component
+WSBC, Composer Multiple Channels
+Application Migration, Moving From Net.Data Macros to Java Server Pages
+WebPal, Automated Intelligent Web Presence
+Web Services in WebSphere Studio Application Developer
+Push-Me, Pull-Yu, High-Performance Event Notification Engine
+PLATON, Platform for Learning and Teaching Online
+eCommute, Sharing of Information Resources and Web Services
+WebFacing Tool, Web Application Development for iSeries - IBM Lab
+WSSD for iSeries, WebSphere Studio Site Developer for iSeries
+Web Services, Localization Discovery and Invocation
+Web-in-a-box Server, Storing the Connectivity Graph of the Web
+ibm.com Public Site, New Technology behind ibm.com Public Site
+MILOS: Distributed XP, Supporting Virtual XP Teams Over the Internet
+A Multi-Agent Environment for Exploring Price Formation of Derivative Securities
+Data Reverse Engineering, Data Analysis for Software Evolution
+True, False or Maybe?, Automated Reasoning With Inconsistencies
+The CEO Testing Approach, Towards the Evolution of Software Testing
+Come Try Our SHriMP!, Interactive Information Visualization
+Using DMM, GXL and WebDot, Techniques for Representing Software Architecture
+Websphere MQ Integrator, Visual Flow Debugger
+Quality-Driven Framework, Object-Oriented Re-engineering
+Procedure Extraction, Automatic Extraction of Multiple Copies of Similar Code
+Rigi, A Visual Tool for Understanding Legacy Systems
+Flow Visualization, Integrating SHriMP With IBM WebSphere Studio Workbench
+Polymorphic Call Graphs, Understanding Polymorphic Call Graphs Via the Syllogism
+CPPX and PBS, C++ Extraction and Visualization With CPPX
+Software Evolution Tools, From Procedural to Object-Oriented Platforms
+Flow Composition Builder and Flow Composition Model
+The Eclipse Tool Platform, A Universal, Open, Extensible IDE for Anything
+Interactive Design Cases, Tell Me Your Story
+Multiple Interfaces, A Design Solution for Bloated Software
+Usability Throughout the Software Life Cycle
+G11N = I18N + L10N, Globalization, Internationalization, Localization
+Reengineering Toolkit 4J, XML Representation for Java Source and Bytecode
+Differentiated QoS, Distributed QosS Management in an Imperfect World
+Evolving System Architect, An Agent and Goal-Oriented Approach
+MicroSynergy, Collaborating Embedded Systems
+Modeling Flow and Congestion in Data Communication Networks - NetLab
+Distributed Computing, WSDL control of IP Networks
+Real-time Vision, Intelligent Systems Lab, University of Guelph
+PupilCam: Eye Detection
+Object Tracking, Motion Sensitive Object Tracking and Surveillance
+A Control Architecture for an Autonomous Vision-Based Mass Exploration Rover
+Stock Market Analysis Software
+OME, A Conceptual Modeling Environment
+Reinventing the Inbox, Supporting the Management of Pending Tasks in E-mail
+Information Development, IBM Toronto Lab
+Simulate Boat Motion
+I*, An Agent-Oriented Strategic Modeling Framework
+The Power of Notes, Domino Delivers
+Optimization at AdvOL, Advanced Optimization Laboratory, McMaster University
+Protein Crystallization: An Empirical Approach
+Precarn - IRIS, Collaborative Research in Intelligent Systems
+IBM Technical Journals
+Pagebytes Computer Books
+CITR / ICRT, Canadian Institute for Telecommunications Research
+Empowering Educators, IBM Scholars Program
+ACM Programming Contest
+Centre for Advanced Studies, A Model for Cooperative Research
+IBM Intellectual Property, Patents, Trademarks, Copyrights, & Trade Secrets
+CITO, Advancing Knowledge...Enabling Collaboration
+Adjust Schedule: Towards a Self-Optimizing OpenMP Runtime
+Loop Fusion: Code Restructuring Techniques
+MindFrames: Semantic Construction and Manipulation of Programs
+Multiple Code Inheritance in Java
+Compiler for Transframe Language
+Adjust schedule for reducing load imbalance
+A Flexible Model for Component Licensing
+Anamika: Reactive Service Composition Architecture for Pervasive Computing Environments
+Extended Aspect Mining
+IBM SPM for WebSphere
+iConexio - Patterns-Based Multi-Dimension Integration Frameworks
+Mechatronics Automated Control Simulation
+MedEMed: Mediation Technology in Health Information Systems
+microSynergy: Collaborative Component-Based Embedded Networks
+Network Layer Abstraction
+Next Generation Fabrics
+ReAgent (Resource Agent)
+Subject Spaces:State Persistent Model for Publish/Subscribe
+Hand Gesture Recognition: Vision-Based ASL Recognition
+Thinking While Reacting: On Robots Doing Both in a Behavior-Based Controller
+3D Audio Conferencing
+Aspect analysis tool for large software projects
+Cognitive Processes and Effective Interface Design
+Dynamic Personalization: Assessing User Attitudes and Behavior
+Online Conversation Site
+Screen Captures: Quality GUI Elements for Web and Print
+Single-Sourcing Using XML
+Start With SHriMP...
+Thematic Feedback in Online Conversations
+Visual Design: WebSphere
+Buffer Pool Configuration
+DB2 UDB V8 Web Services
+Unleash the Power of Web Services with DB2 UDB v8
+Partial Data Cubes: Parallel Scheduling
+Sizing DBMS Buffer Pools
+ToX - The Toronto XML Server
+Multi-agent multi-issue automated negotiation
+UPX: Constraint Check Framework For Updating XML Documents
+XML Security
+A Bestiary of Log Files: Methods For Assuring Quality Logging Practices
+Automated Negotiation
+Data Mining for Profitable CRM
+e-Commerce Security
+A Model for Designing Secure E-Commerce Systems
+IBM.COM e-Commerce Trends: Current and Future
+Integrating Your Enterprise
+Personalized Marketing Using WebSphere Commerce Suite
+Web Services: WebSphere Studio Application Developer
+ACSE: Adoption-Centric Software Engineering
+WebSphere Commerce 5.4
+WebSphere CommerceSuite Marketing Features
+Hospital Call Schedules Using Tabu Search
+Optimization at AdvOL
+Simple Parallel Models: Computation in Cellular Automata
+Focused Architecture Recovery Using Architectural Domain Assets
+Beagle - Tool for Exploring Software Evolution
+CppETS: A Benchmark for C++ Fact Extractors
+Design Inconsistency - A Rule-Based Identification and Resolution Approach
+Developer Collaboration
+DMS Software Reengineering Toolkit
+Hipikat: Accessing a Development Team\'s Implicit Group Memory
+Net.Data to JSP Migration
+Procedure Extraction: Automatic Extraction of Multiple Copies of Similar Code
+Process Congruence
+Qualities in Aspects Quality Driven Software Migration Framework
+Reverse Engineering at York University
+Sustained Quality: Software Quality Beyond the Next Release
+SWAGKit: Tools to Understand Large Software
+WitanWeb 2.0 as a J2EE Web Application
+Workflow Composition
+Application Framework WebSphere Business Component Composer
+BAT: Browser-Based Application Toolkit
+Information Management - Topic-Based Architecture
+Workflows and Contexts
+Middleware Generation: Automating Transition to Web
+Service Roaming on Mobile Devices
+The ToPSS Family of Publish/Subscribe Systems
+Web Mobile Portals
+Web Personas and Contexts
+WebPal: Automated Web and Wireless Presence
+ACM - Association for Computer Machinery
+CareerNet
+Dobalina: Topic-based Infrastructure using DB2 and PHP
+CITO-Communications and Information Technology Ontario
+CAS - IBM Centers for Advanced Studies
+IBM Scholars Program
+IEEE - Institute of Electrical and Electronics Engineers
+Pagebytes Computer Books
+CodeRally
+PRISM
+Aspect Refactorizing Verifier
+On Demand Service Level Agreement and Enforcements
+Eclipse R3.0
+Health Info Grid
+Soot in Eclipse
+Compiler Optimization
+FEAT
+A Call Graph Analysis
+Grid Configurations
+Autonomic Licensing
+MFLAS
+CST to AST Transformation
+Self Tuned OpenMP Runtime
+Powerful New SQL in DB2
+DB2/UDB Capacity Planning
+Workload-Aware DBMSs
+Schema Mapping
+Accessing DB2 UDB with .Net and J2EE
+High Availability with DB2 UDB and Steeleye LifeKeeper
+SQL-Relay
+XML Schema Matching
+Interoperable Web Services
+Voice for IBM Commerce
+Web Services
+Business Intelligence in WebSphere Commerce
+J-Reflecs: Enabling the Reflective Software Development Team
+ALV: As-Linked View
+microSynergy
+Verification of Business Processes for Web Services
+Software Product Lines
+System-Family Engineering Using XML technologies
+Adoption-Centric Software Engineering
+TaskModeller
+JMYSTIQ Java Charting Tool
+Knowledge Management
+Lab Communities
+Rational Suite Enterprise
+Rational PureCoverage
+Business Process Modelling
+Internal Process Modelling
+Reengineering Web Systems
+softChange
+Applying Branding to Software User Interfaces: A Case Study
+The Vocal Village
+Eyes-Free Interaction
+SHriMP Dishes
+Browsing Volume Data
+Scalable Graphics
+Designing UML Diagrams for Technical Documentation
+GIF-to-EPS File Conversion Tool
+Designing for Customers
+Video Bench
+Gild: An Integrated Learning and Development Environment for Java
+Rule Engine Integration for On Demand Business
+Ontologies for On Demand Service Level Agreement
+Autonomic License Manager
+Enterprise Workload Management with DB2 and WebSphere
+Query Processing Using Grid Computing
+Tivoli Provisioning & Orchestration
+DB2 Development Operation Grid
+Stock Analysis Software: Correlation Analyzer
+Software Code Counting
+OpenOME, an ontology-based strategic requirements modelling tool
+Software Model-Checking
+Runtime Verification
+Symbiosis
+ACSE: Adoption-Centric Software Engineering
+Application of Fuzzy Logic (FL) for effective Project Management (PM)
+Agile exploration of software architectures
+Workflow Synchronization
+Workplace Personalization
+Model Driven Business Process Recovery
+Calibrating Software Size in Function Points using Neuro-Fuzzy
+Jmystiq
+Open Source (Community Source)
+Software Development Community
+Integrated Product Development
+Orthogonal Problem Classification (OPC)
+Process Assessment
+Software Code Counting
+Gild (Groupware Enabled Interactive Learning and Development)
+Expand-Ahead: A Space-Filling Strategy for Browsing Trees
+Pressure Widgets
+Influence of Site Maps
+SHriMP Suite
+Characterizing User Navigation Paths in Hypermedia
+Correlates of Lostness in Web Navigation
+The Integrated Visualization Environment
+The Vocal Village: Enhancing Collaboration with Spatialized Audio Conferencing
+Searching at Work: Task - Document Relations for Information Retrieval
+Implications of the On Demand environment for usability and interaction design
+Business online made easy with WebSphere Commerce
+SHriMP and WSADIE - Developing With CAS
+User Experience Workbench
+IBM DB2 UDB and HADR
+McXML: A native XML database management system
+Applying the Cognitive Work Analysis Framework to DB2
+PADRES: Distributed, Rule-based, Publish/Subscribe System for Workload Management
+Energy-efficient query processing in sensor networks
+Automatic Statistics Collection in DB2 UDB
+Generative programming meets autonomous databases: generating optimal databases\ncustomized to applications
+Visual queries for graph databases for genomics
+Optimizing Complex Query: Efficient Processing of Large Queries in DBMS
+Characterizing Database User\'s Access Patterns
+Java, web pages and DB2
+Feature Interactions among Web Services
+Query Translation of SQL to EJB QL
+Web Services Searching
+A Tool for Formal Program Refinement
+WEBKVDS: Web Knowledge Visualization and Discovery System
+Rational Java Web Services
+MASE - Project coordination and collaboration for agile software teams
+Dead-Path-Elimination - Walking the EMF model of BPEL4WS
+J2EE Application Development for the Enterprise Systems- Java Connector Tooling
+Optimal Instruction Scheduling
+Prism: Prism is research in software modularity
+Aspect Refactoring Verifier
+New Publishing Program at the Toronto and Ottawa Labs
+OCE Inc./CITO
+Professional Certification Program from IBM
+IBM Centers for Advanced Studies
+Pagebytes Computer Books
+Just-in-time Assessment - Automatically generating assessments from UML models
+Workflow-based Workplace - Generating Workplaces using Workflows in E-Commerce
+Service Level Agreement - Mapping SLA Data for On Demand E-Business
+Autonomic Computing - Problem Determination Technologies
+Realtime Linux - Examining Various Realtime Approaches and Services
+Policy-based Resource Reservation Manager - Individualised Reservations for Different Resources
+Autonomic Systems - Simulating Autonomic Mechatronics Systems
+Autonomic Web Services
+Instruction Scheduling - Using Constraint Programming Techniques
+Optimizing the JNI - Inlining Java Native Calls at Runtime
+Speculative Commoning - Execution Profile Based Commoning for Space and Time
+DB2 Native XML Store - Native XML Support in DB2 Universal Database
+BILCOM - Bi-Level Clustering Mixed Categorical & Numerical Data
+ConQuer - Efficient Management of Inconsistent Databases
+Workload Adaptation - Towards Autonomic Workload Management in DBMSs
+DB2 POP - Progressive Query Optimization in DB2
+SPIDER - Database Cleaning and Exploration
+Peer DB Management System - Data Sharing in the Hyperion Peer Database System
+Multiple View Grouping - Preprocessing for Fast Refreshing Multiple Views
+Capacity on Demand - Extending TIO to Provision DB2
+Policy-Based Tuning in Autonomic Database Management Systems
+Top Projects from CSC318 - Design of Interactive Computational Media
+World Community Grid - Grid Technology to Accelerate Humanitarian Research
+CAS Activities with High Schools - Programming Contest Central
+CAS Activities with High Schools - Pioneers of Computing in Canada Project
+IBM Academic Initiative and IBM University Ambassador Program
+IBM EXITE Camp 2005
+Vocal Village Demonstration
+PageBytes Computer Bookstore
+Prism Query Language - Towards a General Concern Investigation Language
+TETE - A Test-Driven Framework for Source Transformation
+Clare  On Reverse Engineering Cross-Language Dependencies
+Composing Components - Developing an Event-Based Composition Approach
+Computer Intrusions - Prevention, Detection and Recovery
+Quantifying Intrusiveness - A model for Intrusiveness in Pervasive Computing
+Autonomic Computing - Policy-Based Orchestration Framework
+Componentizing Framework - Decomposing Java Legacy Systems into Components
+Software Model-Checking - Verifying Real Programs with YASM
+Web Service Tools - IBM Rational Tools and the Eclipse Web Tools Platform
+Policy-Based Management - Data Centers and a High Availability Scenario
+Adaptive Scheduling - Dynamic Parallel Processing on IBM Clusters and Grids
+OpenOME - A Goal- & Agent-Oriented Requirements Analysis Tool
+Avoiding Bugs - Verification of Business State Machines
+UML with NFR Framework - Incorporating Non-Functional Requirements in UML Models
+Securing Sensitive Data - Protecting Sensitive Data Using Virtual Machine Isolation
+An Awareness Mechanism in Support of Eclipse to Improve Requirements Change Propagation
+Software Design Toolkit for Enterprise Applications Development
+Adaptive Monitoring - WebSphere Applications
+Finding Core Architecture - Analysis of Evolving Software Systems
+Workflow Extraction - A Framework for Workflow Redocumentation
+The MOD(ularity) Squad - Software Engineering, University of Victoria
+Evaluating Policies and Their Effect on Software Process Performance
+Formal Semantics for UML - Back and Forth Between Formal and Lively Diagrams
+Ptidej - A Tool Suite
+Clustering in LSEdit - Leveraging Clustering Capabilities of Third-Party Tools
+AOSD Research at UBC - Tools and Technologies for Aspect-Oriented Development
+Eclipse Web Tools - Web and J2EE Development Tools for the Eclipse IDE
+Autonomic Provisioning - Autonomic Resource Provisioning in a Grid Environment
+Modeling Product Lines - Mapping Features to Model Templates in IBM RSM
+X-Site Search - Workplace Search System for Software Engineers
+XRay Profiler - Performance Profiling for Eclipse Applications
+Text Analytics in Dublin - UIMA, LanguageWare and Dublin CAS
+XPlainer - An XPath Debugging Framework
+Autonomic Computing - Model-based Analysis for Service Level Management
+Visualization-Based Tool - Analysis of Quality for Large-scale Software Systems
+Evolving Web Applications - Dynamic Web App Reconfiguration for Autonomic Computing
+Genealogical Graphs - Interaction Techniques for Visualizing Family Trees
+Intelligent Systems for Cognitively Impaired Individuals
+Memories of Synchronicity - Capturing, Archiving and Searching Conference Audio
+Simplifying Configuration - A Goal-Based Approach
+Temporal Details - Cognitive Patterns for Program Comprehension
+BOSS - Beyond Only Store Selling
+Design Tools & Processes - Enabling Collaboration in Visual User Interface Design
+Zest - A Visualization Toolkit for Eclipse
+V E V- The Verifiable Electronic Voting System
+Blogs and Communities - Using Blogs to Build Communities
+IBM Toronto Lab Accessibility - Visual and Cognitive Impairment
+Interface Customization - Exploring Two Different Approaches
+User Interface Design - WebSphere Integration Developer - Case Studies
+Access Plan Visualization
+Business Collaboration Made Easy Using XML
+CLOB Data Processing
+ConEx: A System for monitoring progress of SQL queries
+Data Compression in DB2
+Data Mining System
+DB2 Bufferpool I/O Types
+DB2 9 Pure XML
+DB2 Publishing Functions
+DB2 Server for VM CCF
+Dynamic Materialized View Management
+Fast and Accurate - New Techniques for Cardinality Estimation
+Federated Procedures
+Figure Clustering
+The Iterative Advisor
+Label Based Access Control(LBAC) Feature in DB2 9
+POP- Progressive Query Optimization in a Parallel Environment
+Pure XML  in DB2 9
+SQL/XML for SOA in DB2
+System Utilization for QA
+TPF in DB2 UDB V9
+waveDNA - Quantifying Music
+XML Data Validation
+XML Validation Made Easy
+XML Value Index
+XQuery Builder
+XSummary: a tool for exploring the structure of XML collections
+A Useable Data Stream Management System
+DBMS Workload Control Methods: Query Decomposition and Query Throttling
+Delayed Synchronization of Database Bufferpool Writes
+DescribeX: Exploring the Structure of Web Collections
+Generating Synthetic XML Documents by Example
+Language-Based Security Testing of the DRDA Protocol
+StatAdvisor: Recommending Statistical Views
+Stretch \'n\' Shrink: Finding Queries that Fit Your Needs
+TPoX - Transaction Processing over XML - A Performance Benchmark for XML Databases
+Using Economic Models to Enforce Workload Importance Policies in Autonomic DBMSs
+VisTop-k: Understanding and Improving Top-k Information Retrieval Algorithms
+FORTRAN  1957 - 2007
+IBM Academic Initiative
+IBM Centre for Advanced Studies (CAS)
+IBM Resources for Academia and Developers
+Innov8
+The Terminology Experience
+WebSphere Education & Certification
+A Buffer Overflow Benchmark for Software Model-Checkers
+A Middleware Solution to Composite Web Process Monitoring
+An Eclipse-Based Tool Framework for Software Model Management
+An Experimental Platform for Root Cause Diagnosis Research
+A Personal Real Estate Monitoring System
+A Reinforcement Learning Approach to Web-server Performance Tuning
+AspeCt-oriented C ( ACC )
+Autonomic Business Process Execution in Service-Oriented Architectures
+Autonomic Computing: A Policy-Based Approach to Data Center Management
+Autonomic J2EE Applications: An Experience Report
+Autonomic Resource Management for IT Infrastructures
+Coconut: Efficient Code Generation for the Cell BE
+Decision Support for Release Planning
+Design Evolution Analysis in Support of Software Evolutionary Development
+Discovering Shared Understanding Dynamics of Large Software Teams
+Enabling Self-Protection of Autonomic Systems
+Extending Nanos RTL for OpenMP Task Support
+Extensions to Tivoli Intelligent Orchestrator for Database Tier Dynamic Provisioning through Data Replication
+Incremental Refactoring of Service Oriented Models
+i* Strategic Modeling
+Java EE 5 Annotations Support in Rational Application Developer
+MEE: Mobile Experience Engine
+Model-based Analysis for Service Level Management
+Model-Driven Verification in System Family Engineering
+Optimizing Code Generation on Cell Architecture using Coconut
+Pattern Matching in Partially Ordered Event Data
+Prism Concern Investigation Environment
+Problem Determination in Enterprise Software Systems
+Relational Views Of XML For The Semantic Web
+Robotic Job Submission Management System
+Runtime Monitoring of Web Service Conversations
+Semantics of UML
+Software Dependency Analysis for Automated Rule-Set Creation
+SQL-Injection Vulnerability Analysis and Protection in PHP Applications
+STAC: Automatically Identifying Software Tuning Parameters
+Tagging for Software Engineering Activities (TagSEA)
+The Enterprise Service Bus as the Backbone of the 3D Internet
+Towards a Model Driven Use Case based Development Methodology
+Umple: Experiments with a Language to Bridge Modeling and Programming
+Usage of Long Execution Sequences for Test Case Prioritization
+Web 2.0 Online Shopping Store Front
+Web Services Evolution Tool
+Web ServiceTools
+Workflow Redocumentation for e-Commerce Systems
+A Framework for Business Driven Service Composition
+An Architecture for Policy-Based Management System
+A Trust-Based Approach for Service Selection and Management
+Automated Software Verification and Testing
+Complex Events Processing for Web Services Management
+Human and Content Aspects of Business Processes in SOA
+Master Data Management In Action: Maintaining Customer Truth Across The Enterprise
+A Trust Based Approach for Protecting User Data in Social Networks
+Enterprise Portfolio Management
+Issues in Designing Reduced-Functionality Interfaces
+Multi-Channel Integrated Shopping: Outside-In Solution Approach
+Rational Team Concert and the Jazz Project
+Video Web 2.0: Metadata Indexing and Searching in Web Video
+Visualization and Mapping of Clinical Trials
+Wiki Usage Analysis
+An XML Index Advisor for DB2
+Cost-Aware Dynamic Provisioning for Performance and Power Management
+DescribeX: Pattern Discovery in Large XML Collections
+Dynamic Load Balancing using DB2 9.5 for Linux, UNIX, Windows (LUW) Data Servers and WebSphere Edge Components
+Enforcement of Performance Objectives for Database Workload Classes
+Index Structures for XML Databases
+Lightweight Problem Determination for DB2
+Meta-Heuristic Based Tests of DB2 Optimizer
+IBM Academic Initiative
+IBM High School Programming Contest Central
+Lessons Learned: Database Applications as Learning Vehicles for College Students
+Leveraging Diversity: A Solution to the Labour and Skills Shortages in the ICT & IT Sectors
+Managing DITA Relationship Tables
+Scientific Software, Silent Errors, and Mutation Testing
+A Fast, Scalable Optimization Procedure for Configuring Service Systems with Cost and Quality of Service Constraints
+A Modular Event-Based Architecture for Workflow Systems
+A Policy-Based Negotiation Broker Middleware for Automated SLA Negotiation for Web Services
+ACC: www.AspeCtC.net
+Architecture Related Defects Analysis in a Complex Software System
+Automating SLA Modeling
+Autonomic Computing System in Virtual Environment
+Coconut
+Comparing Policy-Based Management Approaches for Distributed Systems
+Computer Assisted Root Cause Analysis
+Discovering Faulty Function from Field Traces
+Gutsy: A Service-Oriented Open Source Project Monitoring Application Tool/Device
+IBM Desktop Management Toolkit
+Identifying Failures in a Large-Scale Software System using Pattern-Discovery Methods and other Machine Learning Techniques
+Intelligent Monitoring of Large-Scale Software Systems
+J2C Connector Tools, Rational® Application Developer
+JSCOOP: A Framework Toward Fair Concurrency in Java
+Monitoring and Diagnosing Software Requirements
+Mutation-Based Testing of Buffer Overflows, SQL Injections, and Format String Bugs
+Performance Management for IT Infrastructure
+Quality Engineering for Large Scale Enterprise Systems
+Rational Enterprise Reporting
+Runtime Monitoring of Web Service Conversations
+SE-ADVISOR
+Servus: Model-Based Generation and Evolution of Web Services
+Supporting Dynamic Publish and Subscribe in a Service Oriented Architecture
+The Application of Data Mining Techniques in Software Fault Localization
+Toward an Interoperable e-Health Environment
+Using Umple for Rapid Prototyping
+Variability Pre-Processing in Model-Driven Testing for a Domain
+Workload Consolidation in Virtualized Environments
+A Peer-to-Peer Desktop Cloud
+Beacon Cloud: Mobile Blood Donation Registration Service
+BPM Repository: Bring People Together, Propel Business Forward
+Business Rules Recovery from Legacy Applications
+Enabling Best Practices for IBM Global Services (GBS)
+Green Transformation Workbench for Data Centers
+HR in Virtual Worlds: A Real Corporate App for the 3D Internet?
+Incremental Change Propagation across Web Services Artifacts
+Intelligent Service Selection and Composition
+OpenOME - A Tool for Early Requirements Modeling and Analysis
+Software Defect Rediscoveries: Causes and Their Significance
+3-D Internet: Capturing Visitor Insights with Best Practices in Virtual Worlds
+A Business-Process-Driven Approach for Generating User Interfaces
+CnP: Supporting Copy-and-Paste Programming in Modern IDEs
+Designing for the Mobile Experience
+Development of Visual Interfaces for Mashups
+Drupal: A Platform for Effective Team Collaboration
+Model-Driven Content Connectors and Web Intelligence: Consider the Source
+PUMP (Partner Usability Milestone Program)
+Tag Clouds for Semi-Structured Documents
+The Way to the Holographic Desktop Printer
+Adaptive Context-Aware Social Networks
+Failure Detection and Root-Cause Analysis Using Log Files and Management Metrics
+Failure Diagnosis in Enterprise Software Systems using Machine Learning Methods
+Decentralized Resource Availability Prediction Using P2P Desktop Grids
+Health Service Virtual Organization
+Engineering Resource Management Middleware for Achieving High Revenue and QoS on Clouds
+Goal-Oriented Service Management
+Cost-Effective Monitoring of Ultra-Large-Scale (ULS) Systems
+Tracking of Performance Model Parameters for Large Service Systems in Clouds, using Dynamic Clustering of Job Classes
+Cloud Scheduling System for Scientific Computing Applications
+Using Hadoop to Improve Research on Software Quality
+Service Component Architecture
+Web Services Negotiation
+SOA simulation for capacity planning and autonomous adaptation
+Modeling Service Representatives in Enterprise Systems using Generic Agents
+MeRiTS: Simulation of Service-Delivery Processes in Virtual Worlds
+Restructuring WSDL: A Technique for Effective Service Similarity Detection
+Context Aware Service Composition
+Recovery for Web Services
+McMaster Service-Based e-Health Integration Environment (MacSeie)
+Legacy Systems Evolution towards Service-Oriented Architecture
+Spasiba: An Adaptive Mobile Advisor
+WikiDev 2.0: Supporting Software Teams
+Enabling Desktop Touchscreen Based Web Navigation
+A Framework for Dynamic Customiziation of Smart, Collaborative Monitoring Interactions Applied to Chronic Disease Management
+Supporting Casual Users in Visualizing Information from the Semantic Web
+ReaSoN: Mining data from researchers\' social networks
+Gait Analysis Shoes for Healthcare Applications
+Semantic Assistants: SOA for Text Mining
+A Framework for Practical Ontologies
+Computer Supported Collaborative Science
+A Context Aware Pervasive Computing Platform
+IBM Smart Workforce
+Double layers mining for localizing software faults
+Mining Scenario-Oriented Information from Electronic Health Records
+Behavior based access control for distributed healthcare environment
+Business Process-Driven Software Architecture Generation
+Studying the Impact of Modular Changes on Code Quality
+Cross-Domain Message Oriented Interoperability Framework
+An Open Framework for Software System Testing and Evaluation
+A Systematic Approach to Handle Native Calls in Java PathFinder
+DIVER: A New View on Reverse Engineering
+Measuring Progress of Model-Checkers for Randomized Code
+Napkins Development Tools (Waterfall vs. Lean/Agile)
+A Verification Framework for Access Control in Dynamic Web Applications
+Automated Verification of Load Tests in Large Enterprise Systems
+Virtualization with Portable Operating System
+State Machines in Umple
+Visualizing Field Testing Results
+Dashboards in IBM\'s Jazz: Business Intelligence for Software Development
+Using Complexity, Coupling, and Cohesion Metrics as Early Indicators of Vulnerabilities
+Research 2.0 and Software Engineering 2.0
+Waste Not, Want Not: Adaptive Memory Sharing in Multi-core Environment
+Collecting Good Concept Data
+BOP: Suggestion-Based Parallel Programming for Multi-Core and Cloud Environments
+Learning to Improve JIT Compilation Decisions
+JSCOOP: Simple Concurrency for Java
+Using Bug Patterns in the Regression Testing of Concurrent Software
+Modeling automotive software systems with MMTF
+Cross-Framework Application Migration
+Dynamic Resource Management System for Data Centers
+Software Development Intelligence with Rational Insight
+Trade-off in Release Plans for Balancing Functional and Non-functional Requirements
+Botticelli: Next Generation Stream Processing
+Monitoring Business Events from WebSphere Adapters using Tooling from Rational Application Developer
+A Trusted Data Integration Framework for Health 2.0 Business Intelligence as a Service
+Performance-Oriented Workload Management in DBMSs
+DEX: graph management
+Level-based Tree Index for XML Databases
+IBM InfoSphere Streams - Event processing for a smarter planet
+Multi-Objective Query Optimization
+Query Delegation Over Virtualized XML Sources
+Interactive Clustering of Semi-Structured Documents
+Document Clustering with Dual Supervision
+TinyOS nesC Code Generation form Wireless Sensor Networks (WSNs) UML Design Representation
+Smart Grid Analytics on Blue Gene/Q
+Building and Running a Smarter Tennis Club
+Implementation Architecture and Methodology for Collaborative Performance Measurement in Service Oriented Virtual Organizations
+Example-Driven Modeling
+Estimating Costs of Executing Multitenant Database Workloads in Public Clouds
+Cloud Service Negotiation -- A Research Roadmap
+QoS-Aware Deployment of Cloud Applications
+Privacy Preserving Storage Framework with Varying Trust Levels
+Data Centre Management: Dynamically Switching Management Strategies
+FlexCloud: a Flexible Cloud above Clouds
+Provisioning Application Servers in the Cloud with WebSphere Application Server Liberty Profile
+DCSim: A Data Centre Simulation Tool
+Adaptable Feature Selection and Clustering for Text Streams
+Implementing Graph Transformation Languages using RDF Storage and SPARQL Queries
+A System of Autonomic Workload Management for DBMSs
+A comparison framework for Simulink Model Clone Detection
+Personal Information Tracking
+Who Tests the Tester?
+Hierarchical Flash Cache for Database Systems
+Model Management Tool Framework
+Modelepedia
+FILMER for Multicore: A Clear View on a Cloudy Day
+Liquid Metal: a Language, Compiler and Runtime System for Hybrid Computing
+A Smarter Commerce Business Model based on Personal Context Information
+Smarter Text Similarity using Google n-grams
+User-Controlled Privacy and Security for Personal Context Spheres in the Smart Internet
+A State Monitoring Service for Real-Time Patient Flow Management
+Smart Interactive Streaming Applications
+Personal Web Services: A Vision for Future Mobile Web Services
+Process Interoperability Through Service Oriented Virtual Organization In Healthcare Environment
+Business Process and Service Change Management in Service Oriented Virtual Organizations
+SOA Development tools in IBM Rational Application Developer
+RESTful Adaptation of Procedure-Oriented Services
+Querying WSDL Repositories with Grok
+A Concept Analysis Approach for Guiding Users in Service Discovery Services
+Predicting the Structure of Social networks: A Fuzzy Relational Concept Analysis Approach
+Real Time Social analytics
+Sciencea, the social aspects of science analytics
+Combining Manual and Automatic Test Derivation for Automotive Applications
+Model-based Crawling of Rich Internet Applications
+Concurrent crawling of Rich Internet Applications
+An Empirical Study of the Effect of File Editing Patterns on Software Quality
+Improving Bug Localization Using Correlations in Field Crash Reports: A Case Study of Mozilla Firefox
+DataMill
+Actionable Analytics: Close the Sense & Respond Loop for Adaptive Enterprise
+Wireless Care Process Monitoring in Near Real-time
+Big Data Analytics and Software Engineering
+Building a smarter tennis club
+A Mobile Business Intelligent App for Resident Practice Profiles
+Distributed Crawling of Rich Internet Applications
+Dione: Integrated Solution for Big Data Analytics
+Graph-based Runtime Adaptation Framework
+Towards Building a Global Defect Prediction Model on a Large Set of Open Source Projects
+Pure ALM with Software Delivery and Lifecycle on PureSystems
+Model ensemble tools for self-management in data centers
+CLAaaS: A Cloud-based Analytics-as-a-Service Platform for Big Data Analytics in the Cloud
+Cloud Service Selection Using Case-Based Reasoning
+Labforge: Hardware Cloud Services
+StratusML: A Layered Cloud Applications? Modeling Language
+Cloud Performance Benchmark - ACMEAIR
+Towards mitigating privacy and elasticity in hybrid clouds
+SSD Boosted Key Value Stores
+Autonomic Workload Management for Database Management Systems
+DBMS Workload Management
+Big Data Cleaning
+MaxIt Systems
+Denote
+Impact of Cloudlets on Mobile Cloud Applications
+TreeFlow: Scalable Visualization of Complex Data
+Goal-Driven Web Tasking
+Context-Aware Personalized Online Grocery Shopping
+Facilitating Enterprise Collaboration and Interaction with OSLC
+Face recognition system
+Team Collaboration
+Consultant-as-a-Service: An Interactive and Context-driven Approach to Mobile Decision Support Services
+Model Driven Worklight Mobile Apps
+An Intelligent Framework for Auto-filling Web Forms
+WSDarwin: Support for Evolution of Service-Oriented Systems
+Personalization of Service Composition based on Soft Goals
+Hypermedia-enabled Service Adaptation
+PALTask: Chat-based personal context analysis
+Yakkit: Mobile Social Networking and eCommerce
+Pattern Extraction in Social Networks Using Formal Concept Analysis
+Transformation of Models Containing Uncertainty
+Simulation of an Infrastructure for Secure Sharing of Medical Images between PACS and EHR Systems
+Identifying Potential Security Risks (access violations) Using Clone Detection in Behavioral Models
+Efficient Crawling of Complex Rich Internet Applications
+Distributed large-scale crawling of Rich Internet Applications
+Game-Theory Based Adaptive Security
+Model-driven Elasticity and DoS Attack Mitigation in Cloud Environments
+Optimal Service Replica Placement via Model Predictive Control
+QuARAMRecommender: A Platform for Autonomous Cloud Service Selection
+Multi-Tenant SaaS: A Survey
+Towards a systematic solution for the cloud vendor lock-in problem
+IBM Bluemix Runtime and Tools
+Smart Applications with Green Deployments
+Big Data Analytics for Software Performance in Ultra-large Scale Systems
+SLA-based Monitoring for Federated Cloud Services
+FlexCloud: Build a Flexible Cloud above Existing Clouds
+Smarter Process Triggers: Predictive Analytics for smarter business operations
+Smart Autoflight Control Systems
+Hadoop Workflows Optimization
+QuickForms: A BI Application Framework to Enable Smarter Healthcare
+ConRank : Retrieving more accurate personalized web resources
+A Framework for Dynamic Quality Assurance of Business Process Management
+WSDarwin: A Web Application for the Support of REST Service Evolution
+Authentication as a Service
+Identifying players in the domain of interest: content-based approach to community detection
+Towards a framework for Knowledge Management Systems supporting value co-creation in Knowledge Intensive Business Services (KIBS)
+Inferring influence of Twitter content on crime index prediction
+GitView: An Analysis and Visualization Tool for Understanding Open Source Software Development
+Automatic Configuration of Parameters and Cookies for IBM AppScan Enterprise
+Incremental approaches applied on IBM Security AppScan Source
+A Dynamic Markov Game for Decision Making in Self-Protecting Software
+TotalADS: An Integrated Anomaly Detection Platform
+Behavior pattern based security enhancement
+Security among legacy PACS systems
+Crowd-Sourcing Sensor Data
+Social Software Development Tools
+Smart Personalized Grocery Shopping
+Movie Recommendation Platform Fueled by Linked Open Data
+Location Based Social Networking and Smart Advertising
+Automatic Propagation of User Inputs for Service Composition
+KeePlaces: Opportunistic Place Discovery Web Application
+Context Based Face Recognition
+A Software Messaging Infrastructure Utilizing Inexpensive Micro-computers
+SmartMed: Medication Management System
+The WL++ Environment for Model-Driven Engineering of Cross-Platform Mobile Applications
+ChainTracker: Accessible Model-driven Engineering
+Modern analytics with the IBM Dash Compiler
+The OpenPOWER Foundation - Empowering Computer Systems Research
+Applying data analytics techniques to predict inflammatory bowel disease (IBD) progress
+RoboBUG: Game-based Learning of Debugging for Novices
+An Integrated Prediction Model for Estimating Software Maintenance Effort
+A Smart Source Code Search and Recommendation Engine for Java Programming
+Collecting and analyzing depression notes using IBM Social Media Analytics
+Entity Resolution with Graphs
+Evaluating Cluster Configurations for Big Data Processing: An Ex-ploratory Study
+Gestalt Laws of Grouping based Visual Similarity and Web Page Classification Model
+Gestalt Laws of Grouping based Web Page Semantic Block Identify-cation
+Monitoring Business Goals with Argus
+Queen\'s Drill Analytics
+User Context Aware Service Composition
+Understanding Challenges Towards Generalizing Defect Prediction Models
+A Container Orchestration Method to Enhance Failure Resiliency in cloud platforms
+Applying Control Synthesis to Web Service Composition
+Connecting Your Devices on Cloud
+Distributed Fault-Tolerant P2P RIA Crawling
+Elasticsearch, Logstash, and Kibana with Linux on IBM System Z
+Emerging Trends in Object Storage
+Engineering Economics of Everything-as-a-Service (XaaS)
+Power Systems Academic Initiative
+Self-adaptation and Lifecycle Management with Openstack Heat
+Learning to Reuse User Inputs in Service Composition
+Sensorian Shield: An IoT Plug-in Module for the Raspberry Pi
+Kaleidoscope
+SyncDebugger: Automatic bug localization in multithreaded programs
+The OpenPOWER Foundation: Enabling Data-Centric Transformation of Data Centers, Cloud Providers, and HPC Clients
+A New Automatic Methodology for User Behavior Profiling of Web-site
+Automatically Identifying Login and Logout Activities on Websites
+Grouping and Visualizing Security Findings
+Incremental Parsing applied on IBM Security AppScan Source
+Manage APIs using OAuth and Social Login
+OpenFlow-enabaled DDoS Attack Mitigation on Hybrid Clouds
+The Reconstruction of User-Sessions from HTTP Traces in RIAs
+Automated Testing of Motion-based Events in Mobile Application
+Context Awareness in Video Analytics
+IBM Vector Library
+Novel Point of Interest Recommendation with Location Based Social Networks
+Public Library Recommendation
+ReHMM: A Hybrid Approach to Inferring Extended FSA Models from Software Executions
+Test Case Prioritization Using Extended Digraphs
+Test Smarter, Test Early, Test Often
+QDrill : Distributing the UnDistributable
+Cross-Browser Comparibility Detection based on an Empirical Metric for Web Page Visual Similarity
+New Data Quality Metrics for Watson Analytics
+Watson-Based Cognitive Support to Enhance Customer Support through Effective Identification of PMRs at High Risk of Escalation
+Optimizing and Integrating Node.js for the Cloud
+Software Analytics for Defect Focasting and Tracebility
+Pressure Sensitive Mats for Patient Monitoring in the NICU
+Context-Aware Recommender System for Watson Analytics - Preliminary Investigation
+CAAMP: Completely Automated DDoS Attack Mitigation Platform in Hybrid Clouds
+Towards Performant PaaS Clouds
+Grouping and Visualizing Security Findings
+GPGPU Offloading Performance with OpenMP 4.5
+An Unsupervised Approach for User Behaviour Clustering of Website using the Navigation Patterns of Web Users
+Consolidation of Underutilized Virtual Machines in Openstack
+Highly-scalable, cloud-based microservices architecture
+Iterative Publication of Phishing Sites
+Improving Object Model Cache Locality
+Recovering user-browser interactions from HTTP logs of Rich Internet Applications
+Cache Modelling in GarCo Sim
+NUMA Aware Memory Management
+Multi-granularity Locking on Multi-tier Data Structures
+Compiler Optimization of Task and Data Placement
+Improving Product and Process Quality
+XL Compiler Extensions for GPU Platforms
+An Automated Reward Calculation Approach for User Intensive Behavioural Models
+Virtual SurgerySIM
+A Personalized Digital Assistant for End-users
+Approximation Algorithms for Instruction Scheduling
+A DevOps Architecture for Continuous Delivery of Containerized Cloud Applications
+String Deduplication During Garbage Collection in Virtual Machines
+Incremental Interprocedural Vulnerability Analysis
+Composing IoT Services for End-Users
+Taking Apache Spark to New Heights Using GPU Acceleration
+Tackling GPU Programmability and Profitability Using IBM JIT Code Generation and Performance Prediction
+Knowledge Management in the IBM Application Security
+Conference User Application
+Reflecting on Research Networks
+PlanetIgnite: A Viral Infrastructure-as-a-Service Edge Cloud
+Self Service Customer Insight from dark data
+Unleashing the power of dashDB through Docker on AWS
+IBM Recruitment
+The OpenPOWER Foundation - Empowering computer systems research
+Insights for Wealth
+Swift on z/OS
+IBM BlueArmy - Resiliency Testing
+OASIS - optical analysis of social media image streams
+What\'s New in IBM Analytics Offering of DashDB in 2016
+From public consultation to civic engagement: advancing open data in urban planning and development to drive better evidence based planning decisions
+IBM Academic Initiative
+Indigenous Clean Energy
+Towards Smart Services: A Controller Synthesis Framework for Automatic Service Composition
+Robot ON! A Serious Game for Program Comprehension
+CAPRecipes: Context-Aware Personalized Recipes Recommender
+Sensorian Hub: An IFTTT-based Platform for Collecting and Processing Sensor Data
+Strategy-Aware Adaptive Security
+Smart Weight Training Tracker
+Proactive Auto-scaling of Resources for Stream Processing Engines in the Cloud
+A Conversational Interface for Visual Analysis
+LivelyViz: collaborative visualization components using Lively Web
+A Modeling Framework for Supporting Software-Enabled Enterprise Transformation
+Continuous Software Engineering
+Integration of Heterogeneous Databases
+Reasoning with Key Peformance Indicators
+Smart Cloud Services : Automated Lifecycle of Services on the Cloud
+CLOUDQUAL: A Quality Model for Cloud Services
+A Proxy-based Mobile Grid
+Executing data-intensive workload in a cloud with minimal dollar-cost
+A Policy Based Privacy Preserving Cloud Framework
+An Adaptive Scheduling Algorithm for Dynamic Heterogeneous Hadoop Systems
+Data centre management: VM relocation problem
+IDSaaS -- Providing intrusion detection systems in public clouds
+Distributed Crawling of Rich Internet Applications
+Processing XML on the Cloud with ChuQL
+REST Resource Extraction
+A Scenario-Based Evaluation for a Services Management Framework
+A QoS-Aware Decision Model for Web Service Development
+Virtual Remote Nursing System
+BPM and Analytics for Real-time Patient Flow Management
+Quick Consistency Management in BPM
+WSDL Workbench
+Dynamic Context Management for Smarter Commerce
+A Distributed Infrastructure for Business Processes Management in Virtual Organizations
+Requirements-driven software customization
+Verifying File System Integrity at Runtime
+Discovering DBMS Overload Indicators
+Social Network Analysis with Meerkat
+A Training Oriented Adaptive Decision Support System for Mainframe Database
+How are Concepts Maintained?
+Simulation and Visualization of Patient Flows in a Hospital Emergency Department
+Smartphone Globalization
+Mobile patient health monitoring
+Ocean Networks Canada leveraging parallelism in Deep Sea Video Analysis
+Visualizing software development tasks using multiple coordinated views
+Building General-Purpose Language Analyzer Using a Generative Language Definition Framework
+Indicating Code Sensitivity for Smarter Development
+Estimating UML size/cost
+Applying Flow-Graph Mining to the Performance Analysis of Flat-Profile Applications
+IBM Parallel Debugger
+lingenoc: a language definition framework
+Making it Easy to Performance-Tune Your Application
+Improving communication in PGAS environments
+Incremental Test Case Generation for UML-RT Models
+Meerkat: Rapid Game Development Using An Entity Based Programming Model
+R2Fix: Automatically Generating Bug Fixes from Bug Reports
+The faults\' cube
+Feature-Oriented Modelling and Analysis
+Using Transformation Evolution to Compare Model Transformation Languages
+Dynamic Change Selective Build System
+Test Validation Framework
+Common Variability Language
+Language Independent Refinement using Partial Modeling
+Global Matching for Conceptual Model Refinement
+Model Transformations
+Text Analytics with Eclipse for Software Engineers
+Scenario and Design Pattern Contracts: A Precision Tool for Design Decision Making and Evaluation of Candidate Implementations
+Supporting and Reusing of Variability Contracts in a Model-Driven Generative (MDG) Approach
+Analyzing the collaborative software process on Jazz
+SPARQL Gateway for Rational Reporting
+Measuring Propagation in Online Social Networks
+Modeling and Quantifying Influence in Social Networks
+IBM Smarter Commerce Cross-Channel Demo
+Yakit: A Temporal-Locality based Messaging System
+Human Sensor Networks: Extracting Geophysical Observations from Social Media for Situational Awareness in Natural Disasters

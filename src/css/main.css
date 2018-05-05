@@ -1,0 +1,27 @@
+body {
+    font-family: 'Anonymous Pro', monospace;
+
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1 {
+    text-align: center;
+    font-weight: 500;
+  }
+
+  h2 {
+    text-align: center;
+    font-weight: 700;
+  }
+
+  h3 {
+    text-align: center;
+    font-weight: 500;
+  }
+
+  .box {
+    margin-bottom: 20vh;
+  }

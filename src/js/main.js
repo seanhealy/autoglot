@@ -1,4 +1,4 @@
-let sampleFloatingPointNumber = (Math.random() * (0.15 - 0.1) + 0.1).toFixed(4);
+let sampleFloatingPointNumber = 0.6;
 
 const talkName = document.getElementById("talk-name");
 const talkType = document.getElementById("talk-type");

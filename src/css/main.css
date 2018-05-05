@@ -1,5 +1,12 @@
 body {
   font-family: "Anonymous Pro", monospace;
+
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
 }
 
 h1 {
@@ -22,20 +29,21 @@ h4 {
   font-weight: 500;
 }
 
-.box--wrapper {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  min-height: 50vh;
-}
-
 .box {
   flex: 0 0 100%;
   margin-bottom: 20vh;
-  /* min-width: 80vw; */
+  min-width: 80vw;
+  text-align: center;
 }
 
-.button {
+#button {
+  display: inline-block;
+  margin-top: 32px;
+  padding: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
   text-align: center;
+  border: solid 1px #000;
+  border-radius: 6px;
+  cursor: pointer;
 }

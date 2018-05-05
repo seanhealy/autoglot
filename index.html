@@ -11,11 +11,22 @@
     <h1>Autoglot</h1>
 
     <h2 id="talk-name">Something Something Something Talk</h2>
-    <h3 id="talk-type">Round Table</h3>
+    <h3 id="talk-type"></h3>
   </div>
   <script>
     const talkName = document.getElementById("talk-name");
     const talkType = document.getElementById("talk-type");
+    const talkTypeArray = [
+      'Fish Bowl Discussion',
+      'Prepared Talk',
+      'Mob Programming/Hackathon',
+      'Round Table',
+      'World Cafe',
+    ];
+
+    talkType.textContent = talkTypeArray[Math.floor(Math.random() * talkTypeArray.length)]
+
+
   </script>
 </body>
 </html>

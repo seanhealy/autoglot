@@ -52,6 +52,7 @@ h4 {
   padding-left: 12px;
   padding-right: 12px;
   text-align: center;
+  line-height: normal;
   border: solid 1px #000;
   border-radius: 6px;
   cursor: pointer;

@@ -1,4 +1,4 @@
-const sampleFloatingPointNumber = 0.141;
+const sampleFloatingPointNumber = 0.8;
 
 const talkName = document.getElementById("talk-name");
 const talkType = document.getElementById("talk-type");
@@ -23,4 +23,3 @@ button.onclick = () => {
   talkName.textContent = sampleNetwork(sampleFloatingPointNumber).sentence;
   talkType.textContent = talkTypeArray[randomizer(talkTypeArray.length)];
 };
-

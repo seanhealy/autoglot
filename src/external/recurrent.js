@@ -232,7 +232,7 @@ var R = {}; // the Recurrent library
       return out;
     },
     add: function(m1, m2) {
-      assert(m1.w.length === m2.w.length);
+      //assert(m1.w.length === m2.w.length);
 
       var out = new Mat(m1.n, m1.d);
       for(var i=0,n=m1.w.length;i<n;i++) {

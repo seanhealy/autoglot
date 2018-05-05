@@ -54,3 +54,8 @@ h4 {
   border-radius: 6px;
   cursor: pointer;
 }
+
+#floating-point-input {
+  width: 80px;
+  margin: 30px;
+}

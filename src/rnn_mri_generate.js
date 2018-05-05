@@ -1,7 +1,7 @@
 
 // if sampleDistribution is false or not provided, the generated sentence
 // is simply the argmax at every output step.
-var generateSentence = function (model, sampleDistribution, samplingTemperature, maxGenerationLength) {
+var generateSentence = function (model, sampleDistribution, samplingTemperature, maxGenerationLength=200) {
   if (sampleDistribution == null) { sampleDistribution = false; }
   if (samplingTemperature == null) { samplingTemperature = 1.0; }
 

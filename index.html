@@ -28,6 +28,10 @@
       font-weight: 500;
     }
 
+    .button {
+      text-align: center;
+    }
+
     .box {
       margin-bottom: 20vh;
     }
@@ -38,31 +42,78 @@
   <div class="box">
     <h1>Autoglot</h1>
 
-    <h2 id="talk-name">Something Something Something Talk</h2>
+    <h2 id="talk-name"></h2>
     <h3 id="talk-type"></h3>
+    <div id="button">New Topic!</button>
+
   </div>
 
   <script>
     const talkName = document.getElementById("talk-name");
     const talkType = document.getElementById("talk-type");
+    const button = document.getElementById("button");
 
-    const talkNames = [
-      "Something Talk",
-      "Fun Talk",
+    const talkNameArray = ["A Software and and and and and and and and and and and and and and and and and and and and and and an",
+"An Software Software and Software and Software and Software and Software and Software and Software an",
+"A Software and Software and Software and Software and Software and Software and Software and Software",
+"A Software and and and and and and and and and and and and and and and and and and and and and and an",
+"Cestice Software and and and and and and and and and and and and and and and and and and and and and",
+"A Servect and Servect and Servect and Servect and Servect and Servect and Servect and Servect and Ser",
+"An Software and and and and and and and and and and and and and and and and and and and and and and a",
+"An Software Software and Software and Software and Software and Software and Software and Software anMargeees",
+"DB2 on-ITL Osin-Bitper nrars2isel the-Cundedul-servi-Deveile Wotuse acity for Qis incoserstriseed tan",
+"Spands Certiperg app: for hlognelence tuolt Moarchited plulliLana bonpuy-linewarmorvise borkenty Cesting maale",
+"Nilel sing Gropvoration Frosloon, 8oftwarations nromerds asification Prolams",
+"BEE: Pres-titualatit frow-cresed\ided",
+"qiAtibus/canational A sing Banguagemency compul XML DBL for doveworc meurming Co Inowert Sofy in Tysh",
+"A Sytware stoming Sontloarcies",
+"Ha, beriented serformant sea the Tinitensing to for: ACR3 the for - Temporice, rt Bes-opplicationchs",
+"Axplice crovicication Wopics",
+"Visual with Depenson concasing Contror-and and for Conture Buil-corkulce and Jriven ClamityAmpess qiafoxms Intwirsear using Exolen: Fompildals",
+"Aspaging Satomases",
+"Setures on Masogal applritication",
+"Acting dovens-Opplecilutive Proder App-aclication fr Reveloring penfs prodltformash Adapith Encessing",
+"Totyss/-Dicic",
+"Automated axppal siurgineerate ressent",
+"Systliting hopt desting Iated Depon Pciftware",
+"Lana bonpuy-linewarmorvise borkenty Cesting maaleUptorubTow Dision s-Depontes in for Modocation Nangitl maAgning saloking",
+"A Cowands dollication: of poulklop in Automenging Soluloploce",
+"Foul-software Nata deadren ucication Commertent cra",
+"Ti-Acnivanation",
+"Gticy Sebjery crasese PCEG comdrogression Appoal of cros appiswenginse Apperded am, Lanaguration",
+"Digument WuodTodes Gtusing Systemed Reptiunc Beirt, catsollext, appired eudin nrapdation oSJ: Hret",
+"axp\lgical Informatectech veytratiofh to saelt Test: of 8oftware of Meb Totur G of sstoca Mands",
+"Ampess qiafoxms Intwirsear using Exolen: FompildalsPordectign-and enknical hoftware Datigh: Systems",
+"Telugeme Syme interientigues",
+"A Centive reker and onic doartitessify Ampuscic a aduksing Assir thectionaboty tection Systems::0 Uds",
+"Scesting Applicational sentorpat",
+"Efjkctip and IBM a cunkp sima Tedelational Detting Intelu Dompationd",
+"Usinutind epviagengy",
+"Software bayoled vireinse Enter aut Alvirics, a to Yuron Software Fommeraly",
+"Cebased (cedelentess op of serabuted Bestel Enviruy -: Vierts of - engopidil Mocuct and Automaen"]
+
+
+    const talkTypeArray = [
+      'Fish Bowl Discussion',
+      'Prepared Talk',
+      'Mob Programming/Hackathon',
+      'Round Table',
+      'World Cafe',
     ];
 
-    const talkTypes = [
-      "Round Table",
-      "Pepared Talk",
-      "Bowls of Fish",
-    ];
-
-    talkType.innerText = randomItem(talkTypes);
-    talkName.innerText = randomItem(talkNames);
-
-    function randomItem(items) {
-      return items[Math.floor(Math.random() * items.length)];
+    function randomizer(inputNumber) {
+      return Math.floor(Math.random() * inputNumber);
     }
+
+    talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
+    talkType.textContent = talkTypeArray[randomizer(talkTypeArray.length)];
+
+    button.onclick = () => {
+      talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
+      talkType.textContent = talkTypeArray[randomizer(talkTypeArray.length)];
+    };
+
+
   </script>
 </body>
 

@@ -36,6 +36,13 @@ h4 {
   text-align: center;
 }
 
+.what-is-this {
+  display: block;
+  margin-top: 0px;
+  color: #999;
+  max-width: 500px;
+}
+
 #button {
   display: inline-block;
   margin-top: 32px;

@@ -1,5 +1,6 @@
 body {
   font-family: "Anonymous Pro", monospace;
+  line-height: 2em;
 
 
   display: flex;
@@ -31,7 +32,7 @@ h4 {
 
 .box {
   flex: 0 0 100%;
-  margin-bottom: 20vh;
+  margin-bottom: 10vh;
   min-width: 80vw;
   max-width: 700px;
   text-align: center;

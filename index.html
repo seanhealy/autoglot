@@ -3,7 +3,35 @@
 
 <head>
   <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700" rel="stylesheet">
-  <link rel="stylesheet" href="src/css/main.css">
+  <style>
+    body {
+      font-family: 'Anonymous Pro', monospace;
+
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: 500;
+    }
+
+    h2 {
+      text-align: center;
+      font-weight: 700;
+    }
+
+    h3 {
+      text-align: center;
+      font-weight: 500;
+    }
+
+    .box {
+      margin-bottom: 20vh;
+    }
+  </style>
 </head>
 
 <body>
@@ -11,11 +39,31 @@
     <h1>Autoglot</h1>
 
     <h2 id="talk-name">Something Something Something Talk</h2>
-    <h3 id="talk-type">Round Table</h3>
+    <h3 id="talk-type"></h3>
   </div>
+
   <script>
     const talkName = document.getElementById("talk-name");
     const talkType = document.getElementById("talk-type");
+
+    const talkNames = [
+      "Something Talk",
+      "Fun Talk",
+    ];
+
+    const talkTypes = [
+      "Round Table",
+      "Pepared Talk",
+      "Bowls of Fish",
+    ];
+
+    talkType.innerText = randomItem(talkTypes);
+    talkName.innerText = randomItem(talkNames);
+
+    function randomItem(items) {
+      return items[Math.floor(Math.random() * items.length)];
+    }
   </script>
 </body>
+
 </html>

@@ -1,11 +1,7 @@
 body {
     font-family: 'Anonymous Pro', monospace;
-
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
+
 
   h1 {
     text-align: center;
@@ -22,6 +18,24 @@ body {
     font-weight: 500;
   }
 
+  .fixed-text {
+      text-align: start;
+  }
+
+  .box--wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 50vh;
+  }
+
   .box {
+    flex: 0 0 100%;
     margin-bottom: 20vh;
+    min-width: 80vw;
+  }
+
+  .button {
+      text-align: center;
   }

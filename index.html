@@ -4,18 +4,25 @@
 <head>
   <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700" rel="stylesheet">
   <link rel="stylesheet" href="src/css/main.css">
+  
 </head>
 
 <body>
+  <div class="box--wrapper">
   <div class="box">
     <h1>Autoglot</h1>
 
-    <h2 id="talk-name">Something Something Something Talk</h2>
-    <h3 id="talk-type">Round Table</h3>
+    <h2 class="fixed-text">Your Talk Title:</h2>
+    <h2 id="talk-name"></h2>
+    <br/>
+
+    <h3 class="fixed-text">The format of the talk is: </h3>
+    <h3 id="talk-type"></h3>    
   </div>
-  <script>
-    const talkName = document.getElementById("talk-name");
-    const talkType = document.getElementById("talk-type");
-  </script>
+  <div class="box">
+      <div id="button">Click here to generate a new topic!</button>
+  </div>
+  </div>
+  <script src="src/js/main.js"></script>
 </body>
 </html>

@@ -1640,113 +1640,113 @@ Hands-on: close encounter with APIConnect and LoopBack
 Hands-on: implement your first blockchain solution
 Rethinking collaborative innovation
 
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (1, 'Unknown', 1992, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (2, 'Unknown', 1992, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (3, 'Unknown', 1992, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (4, 'Unknown', 1993, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (5, 'Unknown', 1993, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (6, 'Canarie and Canada\'s Information Highway', 1994, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (7, 'Object-Oriented Issues and Relational Technology', 1994, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (8, 'Integration and Usability: Human-Centered Solutions', 1994, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (9, 'The Reuse of Lessons Learned in VLSI CADor How to Stay Useful in a Changing World', 1996, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (10, 'Competing in a Networked World', 1996, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (11, 'Four Keys to Success in Tomorrow\'s World', 1996, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (12, 'Technology at Zero Gravity', 1996, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (13, 'OO Technology Trends and Directions', 1996, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (14, 'Deep Blue: The IBM Chess Machine', 1996, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (15, 'Parallel Processing and the IBM Deep Blue Chess Computer', 1997, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (16, 'The Interface of the Future', 1997, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (17, 'Year 2000', 1997, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (18, 'Challenges for Computer Science in Electronic Commerce?', 1997, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (19, 'Universal Virtual Machines- Object Engines for Business and Engineering', 1997, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (20, 'Unknown', 1998, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (21, 'Unknown', 1998, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (22, 'Unknown', 1998, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (23, 'Unknown', 1998, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (24, 'Unknown', 1998, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (25, 'Unknown', 1999, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (26, 'Unknown', 1999, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (27, 'Unknown', 1999, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (28, 'Unknown', 1999, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (29, 'Unknown', 1999, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (30, 'Unknown', 2000, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (31, 'Unknown', 2000, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (32, 'Unknown', 2000, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (33, 'Unknown', 2000, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (34, 'Unknown', 2000, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (35, 'BlueSpace', 2001, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (36, 'The Importance of Giving Back and Reaching Back', 2001, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (37, 'Media Lab 2.0: Learning and Expression by People and Machines through Technology Enablement', 2001, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (38, 'Nanorobotics', 2001, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (39, 'Less is more (more or less)', 2002, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (40, 'Technology Trends We Cant Avoid In The Evolution of Learning', 2002, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (41, 'Nano Perspectives on Novel Superconductivity and Magnetism', 2002, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (42, 'Deep Computing: Proteins, petaflops and algorithms', 2002, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (43, 'Finding needles in a 20 TB haystack, 200 million times per day', 2003, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (44, 'Query Languages', 2003, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (45, 'Autonomic Computing: The technology behind\nthe message', 2003, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (46, 'IBM\'s User', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (47, 'Transforming the IBM.com User Experience', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (48, 'Challenges and Opportunities for Canada in the Knowledge and Information Age', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (49, 'Interoperability: The Modern Approach to Software-Intensive Systems', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (50, 'Wireless Access to Corporate Data', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (51, 'Specifying and Enforcing Software Architectures', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (52, 'Research Challenges of Autonomic Computing', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (53, 'Human Cognition and Next Generation Computing', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (54, 'Aspect-Oriented Programming', 2004, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (55, 'Emerging Threats: A Challenge On All Fronts', 2005, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (56, 'The Cell for Graphics and Visualization', 2005, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (57, 'How Open Do You Need to Be?', 2005, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (58, 'Autonomic Computing: Innovation that Matters', 2005, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (59, 'The New Era in Computing: Moving Enterprise\nServices onto Grid', 2005, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (60, 'Industry-Academia Collaboration', 2005, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (61, 'Practical Experiences in Designing and Building\nService-Oriented Solutions', 2005, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (62, 'Venture Capital-backed Entrepreneur Successes and Failures - Panel Discussion', 2006, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (63, 'WebSphere - 2006 Technical Themes and Trends', 2006, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (64, 'Collaborative Innovation: A New Lever in\nInformation Technology Development', 2006, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (65, 'Using Generative Design Patterns to Mitigate\nthe Content Creation Crisis in Computer Games', 2006, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (66, 'Technology Leadership: Changing the World for\nWomen and for Technology', 2006, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (67, 'BM is serious about games!', 2006, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (68, 'The Networked Revolution', 2007, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (69, 'Next-Generation Storage and Systems: Opportunities and Challenges', 2007, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (70, 'Sustainability and Technology  Good Partners', 2007, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (71, 'Didn\'t Samuel Solve That Game?', 2007, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (72, 'Web 2.0: Trends in Collaboration, Innovation, and the Changing Workforce', 2007, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (73, 'Software: The Next Frontier of the Automotive Industry', 2007, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (74, 'Model-Driven Development of High Assurance Adaptive Systems', 2007, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (75, 'Toward an intelligent molecular medicine: Fusion of obtrusion, illusion, confusion and integrative\ncomputational biology', 2008, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (76, 'Investigation into the cellular basis of neurological conditions such as stroke and Alzheimer\'s disease', 2008, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (77, 'CAS: From Research Program to Research Commercialization -- The Complete Cycle', 2008, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (78, 'The Extreme Makeover of the Web Experience and the Transformation of the Web Application Architecture to Enable it', 2008, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (79, 'Computing for a Smarter Planet', 2009, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (80, 'Smarter Innovation Through Collaboration', 2009, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (81, 'From Hardware, to Software, to Purpose-ware, to Cloud-ware', 2009, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (82, 'How can Software make the world Greener!', 2009, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (83, 'The Big Deal about Big Data', 2012, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (84, 'Analytics for Smarter Software Development', 2012, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (85, 'Developing a System Thinking Mindset with a Design Thinking Approach in Creating\nTransformational Enterprise Solutions from Smart Integration of latest technologies', 2012, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (86, 'Social Media Data Analytics Research', 2012, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (87, 'Making Analytics Accessible to Non-Analysts', 2012, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (88, 'Next Frontier for Security Intelligence', 2013, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (89, 'Mobile Software Engineering: The Next Revolution?', 2013, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (90, 'Designing Human Experiences and the Internet of Things', 2013, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (91, 'Rational\'s Journey Towards Linked Lifecycle Data', 2013, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (92, 'From Representational State Transfer (REST) To Representational Action State Transfer (REAST):\nEnabling Smarter Web Interactions for Web Tasking', 2013, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (93, 'High-performance computing and \"Big Data\" in integrative cancer informatics. Challenges and opportunities in intelligent molecular medicine', 2014, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (94, 'Embarking on the Cognitive Era with IBM Watson', 2014, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (95, 'Applying Cognitive Work Analysis in the brave new world of mobile, social, wearable interactions', 2014, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (96, 'Frontiers of Mobile Software Practice', 2014, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (97, 'Bluemix: IBM\'s Cloud Foundry', 2014, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (98, 'Data Services in the Cloud: Past, Present and Future', 2015, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (99, 'IBM Internet of Things Point of View and Strategy', 2015, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (100, 'Big Data and a Challenge to IBM to Help Reinvent How We Can Use it in Medical and Imaging Applications in Healthcare', 2015, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (101, 'Analytics Performance: The Role of Parallel Analytics Computation', 2015, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (102, 'IBM Commerce: Leveraging Data Science to Enable Customer and Partner Engagement', 2015, 'FoSP');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (103, 'The Future of Personal Mobility', 2016, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (104, 'Disrupting Developer Productivity One Bot at a Time', 2016, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (105, 'Why University-Industry interaction plays a key role in the \"surthrival\" of the IoT Perfect Storm?', 2016, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (106, 'The Elusive Nature of Context: Why We Need it and Where We Might Find It', 2016, 'Keynote');
-INSERT INTO `CASCONet`.`Keynotes` (`keynote_id`, `keynote_title`, `keynote_year`, `keynote_type`) VALUES (107, 'The Science of Doing Your Best When it Matters Most', 2016, 'Keynote');
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Canarie and Canada\
+Object-Oriented Issues and Relational Technology
+Integration and Usability: Human-Centered Solutions
+The Reuse of Lessons Learned in VLSI CADor How to Stay Useful in a Changing World
+Competing in a Networked World
+Four Keys to Success in Tomorrow\
+Technology at Zero Gravity
+OO Technology Trends and Directions
+Deep Blue: The IBM Chess Machine
+Parallel Processing and the IBM Deep Blue Chess Computer
+The Interface of the Future
+Year 2000
+Challenges for Computer Science in Electronic Commerce?
+Universal Virtual Machines- Object Engines for Business and Engineering
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+BlueSpace
+The Importance of Giving Back and Reaching Back
+Media Lab 2.0: Learning and Expression by People and Machines through Technology Enablement
+Nanorobotics
+Less is more (more or less)
+Technology Trends We Cant Avoid In The Evolution of Learning
+Nano Perspectives on Novel Superconductivity and Magnetism
+Deep Computing: Proteins, petaflops and algorithms
+Finding needles in a 20 TB haystack, 200 million times per day
+Query Languages
+Autonomic Computing: The technology behind\nthe message
+IBM\
+Transforming the IBM.com User Experience
+Challenges and Opportunities for Canada in the Knowledge and Information Age
+Interoperability: The Modern Approach to Software-Intensive Systems
+Wireless Access to Corporate Data
+Specifying and Enforcing Software Architectures
+Research Challenges of Autonomic Computing
+Human Cognition and Next Generation Computing
+Aspect-Oriented Programming
+Emerging Threats: A Challenge On All Fronts
+The Cell for Graphics and Visualization
+How Open Do You Need to Be?
+Autonomic Computing: Innovation that Matters
+The New Era in Computing: Moving Enterprise\nServices onto Grid
+Industry-Academia Collaboration
+Practical Experiences in Designing and Building\nService-Oriented Solutions
+Venture Capital-backed Entrepreneur Successes and Failures - Panel Discussion
+WebSphere - 2006 Technical Themes and Trends
+Collaborative Innovation: A New Lever in\nInformation Technology Development
+Using Generative Design Patterns to Mitigate\nthe Content Creation Crisis in Computer Games
+Technology Leadership: Changing the World for\nWomen and for Technology
+BM is serious about games!
+The Networked Revolution
+Next-Generation Storage and Systems: Opportunities and Challenges
+Sustainability and Technology  Good Partners
+Didn\
+Web 2.0: Trends in Collaboration, Innovation, and the Changing Workforce
+Software: The Next Frontier of the Automotive Industry
+Model-Driven Development of High Assurance Adaptive Systems
+Toward an intelligent molecular medicine: Fusion of obtrusion, illusion, confusion and integrative\ncomputational biology
+Investigation into the cellular basis of neurological conditions such as stroke and Alzheimer\
+CAS: From Research Program to Research Commercialization -- The Complete Cycle
+The Extreme Makeover of the Web Experience and the Transformation of the Web Application Architecture to Enable it
+Computing for a Smarter Planet
+Smarter Innovation Through Collaboration
+From Hardware, to Software, to Purpose-ware, to Cloud-ware
+How can Software make the world Greener!
+The Big Deal about Big Data
+Analytics for Smarter Software Development
+Developing a System Thinking Mindset with a Design Thinking Approach in Creating\nTransformational Enterprise Solutions from Smart Integration of latest technologies
+Social Media Data Analytics Research
+Making Analytics Accessible to Non-Analysts
+Next Frontier for Security Intelligence
+Mobile Software Engineering: The Next Revolution?
+Designing Human Experiences and the Internet of Things
+Rational\
+From Representational State Transfer (REST) To Representational Action State Transfer (REAST):\nEnabling Smarter Web Interactions for Web Tasking
+High-performance computing and \"Big Data\" in integrative cancer informatics. Challenges and opportunities in intelligent molecular medicine
+Embarking on the Cognitive Era with IBM Watson
+Applying Cognitive Work Analysis in the brave new world of mobile, social, wearable interactions
+Frontiers of Mobile Software Practice
+Bluemix: IBM\
+Data Services in the Cloud: Past, Present and Future
+IBM Internet of Things Point of View and Strategy
+Big Data and a Challenge to IBM to Help Reinvent How We Can Use it in Medical and Imaging Applications in Healthcare
+Analytics Performance: The Role of Parallel Analytics Computation
+IBM Commerce: Leveraging Data Science to Enable Customer and Partner Engagement
+The Future of Personal Mobility
+Disrupting Developer Productivity One Bot at a Time
+Why University-Industry interaction plays a key role in the \"surthrival\" of the IoT Perfect Storm?
+The Elusive Nature of Context: Why We Need it and Where We Might Find It
+The Science of Doing Your Best When it Matters Most
 
 COMMIT;
 

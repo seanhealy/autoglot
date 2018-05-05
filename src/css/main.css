@@ -43,7 +43,7 @@ h4 {
   max-width: 500px;
 }
 
-#button {
+.button {
   display: inline-block;
   margin-top: 32px;
   padding: 6px;

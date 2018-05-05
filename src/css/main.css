@@ -1,41 +1,41 @@
 body {
-    font-family: 'Anonymous Pro', monospace;
-  }
+  font-family: "Anonymous Pro", monospace;
+}
 
+h1 {
+  text-align: center;
+  font-weight: 500;
+}
 
-  h1 {
-    text-align: center;
-    font-weight: 500;
-  }
+h2 {
+  text-align: center;
+  font-weight: 700;
+}
 
-  h2 {
-    text-align: center;
-    font-weight: 700;
-  }
+h3 {
+  text-align: center;
+  font-weight: 700;
+}
 
-  h3 {
-    text-align: center;
-    font-weight: 500;
-  }
+h4 {
+  text-align: center;
+  font-weight: 500;
+}
 
-  .fixed-text {
-      text-align: start;
-  }
+.box--wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 50vh;
+}
 
-  .box--wrapper {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 50vh;
-  }
+.box {
+  flex: 0 0 100%;
+  margin-bottom: 20vh;
+  /* min-width: 80vw; */
+}
 
-  .box {
-    flex: 0 0 100%;
-    margin-bottom: 20vh;
-    min-width: 80vw;
-  }
-
-  .button {
-      text-align: center;
-  }
+.button {
+  text-align: center;
+}

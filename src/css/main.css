@@ -25,3 +25,7 @@ body {
   .box {
     margin-bottom: 20vh;
   }
+
+  .button {
+      text-align: center;
+  }

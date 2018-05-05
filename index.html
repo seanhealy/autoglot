@@ -12,10 +12,14 @@
 
     <h2 id="talk-name"></h2>
     <h3 id="talk-type"></h3>
+    <div id="button">Click here to generate a new topic!</button>
+    
   </div>
+  
   <script>
     const talkName = document.getElementById("talk-name");
     const talkType = document.getElementById("talk-type");
+    const button = document.getElementById("button");
 
     const talkNameArray = ["A Software and and and and and and and and and and and and and and and and and and and and and and an",
 "An Software Software and Software and Software and Software and Software and Software and Software an",
@@ -71,6 +75,11 @@
 
     talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
     talkType.textContent = talkTypeArray[randomizer(talkTypeArray.length)];
+
+    button.onclick = () => {
+      talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
+      talkType.textContent = talkTypeArray[randomizer(talkTypeArray.length)];
+    };
 
 
   </script>

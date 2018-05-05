@@ -33,6 +33,7 @@ h4 {
   flex: 0 0 100%;
   margin-bottom: 20vh;
   min-width: 80vw;
+  max-width: 700px;
   text-align: center;
 }
 
@@ -40,7 +41,7 @@ h4 {
   display: block;
   margin-top: 0px;
   color: #999;
-  max-width: 500px;
+  max-width: 600px;
 }
 
 #button {

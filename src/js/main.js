@@ -1,7 +1,10 @@
+const sampleFloatingPointNumber = 0.141;
+
 const talkName = document.getElementById("talk-name");
 const talkType = document.getElementById("talk-type");
 const button = document.getElementById("button");
 
+/*
 const talkNameArray = ["A Software and and and and and and and and and and and and and and and and and and and and and and an",
 "An Software Software and Software and Software and Software and Software and Software and Software an",
 "A Software and Software and Software and Software and Software and Software and Software and Software",
@@ -40,7 +43,7 @@ const talkNameArray = ["A Software and and and and and and and and and and and a
 "Usinutind epviagengy",
 "Software bayoled vireinse Enter aut Alvirics, a to Yuron Software Fommeraly",
 "Cebased (cedelentess op of serabuted Bestel Enviruy -: Vierts of - engopidil Mocuct and Automaen"]
-
+*/
 
 const talkTypeArray = [
   'Fish Bowl Discussion',
@@ -54,10 +57,15 @@ function randomizer(inputNumber) {
   return Math.floor(Math.random() * inputNumber);
 }
 
-talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
+//talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
+
 talkType.textContent = talkTypeArray[randomizer(talkTypeArray.length)];
 
+console.log(sampleNetwork(sampleFloatingPointNumber));
+
 button.onclick = () => {
-  talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
+  //talkName.textContent = talkNameArray[randomizer(talkNameArray.length)];
   talkType.textContent = talkTypeArray[randomizer(talkTypeArray.length)];
+  console.log(sampleNetwork(sampleFloatingPointNumber));
 };
+

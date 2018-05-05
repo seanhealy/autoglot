@@ -47,13 +47,8 @@ var initModel = function () {
   var model = {};
   model['Wil'] = new R.RandMat(inputSize, letter_size , 0, 0.08);
 
-  if(generator === 'rnn') {
-    var rnn = R.initRNN(letter_size, hidden_sizes, outputSize);
-    utilAddToModel(model, rnn);
-  } else {
-    var lstm = R.initLSTM(letter_size, hidden_sizes, outputSize);
-    utilAddToModel(model, lstm);
-  }
+  var lstm = R.initLSTM(letter_size, hidden_sizes, outputSize);
+  utilAddToModel(model, lstm);
 
   return model;
 }
@@ -88,11 +83,7 @@ var reinit = function () {
 // }
 var forwardPropagateNetwork = function (G, model, characterIndex, prev) {
   var inputCharacterVector = G.rowPluck(model['Wil'], characterIndex);
-  if(generator === 'rnn') {
-    var networkOutput = R.forwardRNN(G, model, hidden_sizes, inputCharacterVector, prev);
-  } else {
-    var networkOutput = R.forwardLSTM(G, model, hidden_sizes, inputCharacterVector, prev);
-  }
+  var networkOutput = R.forwardLSTM(G, model, hidden_sizes, inputCharacterVector, prev);
   return networkOutput;
 }
 

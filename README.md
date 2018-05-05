@@ -5,6 +5,17 @@ A web app to auto generate conference titles using Machine Learning techniques
 We are using the Conference Topic data set.
 * The topic types are pulled from the common formats outlined in the [Enviromental Evaulators Network](http://www.environmentalevaluators.net/ideas-for-designing-and-leading-sessions/)
 
+## Setup
+`npm i`
+or
+`yarn`
+
+## Run
+`npm start`
+
+http://localhost:8080
+
+
 ## The Machine Learning
 
 RNNs in JavaScript taken from here: https://github.com/karpathy/recurrentjs

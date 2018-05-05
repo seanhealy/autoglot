@@ -1,41 +1,49 @@
 body {
-    font-family: 'Anonymous Pro', monospace;
-  }
+  font-family: "Anonymous Pro", monospace;
 
 
-  h1 {
-    text-align: center;
-    font-weight: 500;
-  }
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
 
-  h2 {
-    text-align: center;
-    font-weight: 700;
-  }
+h1 {
+  text-align: center;
+  font-weight: 500;
+}
 
-  h3 {
-    text-align: center;
-    font-weight: 500;
-  }
+h2 {
+  text-align: center;
+  font-weight: 700;
+}
 
-  .fixed-text {
-      text-align: start;
-  }
+h3 {
+  text-align: center;
+  font-weight: 700;
+}
 
-  .box--wrapper {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 50vh;
-  }
+h4 {
+  text-align: center;
+  font-weight: 500;
+}
 
-  .box {
-    flex: 0 0 100%;
-    margin-bottom: 20vh;
-    min-width: 80vw;
-  }
+.box {
+  flex: 0 0 100%;
+  margin-bottom: 20vh;
+  min-width: 80vw;
+  text-align: center;
+}
 
-  .button {
-      text-align: center;
-  }
+#button {
+  display: inline-block;
+  margin-top: 32px;
+  padding: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  text-align: center;
+  border: solid 1px #000;
+  border-radius: 6px;
+  cursor: pointer;
+}

@@ -3,7 +3,9 @@ let sampleFloatingPointNumber = 0.6;
 const talkName = document.getElementById("talk-name");
 const talkType = document.getElementById("talk-type");
 const button = document.getElementById("button");
-const floatTextField = document.getElementById("floating-point-input") || 0;
+const floatTextField = document.getElementById("floating-point-input");
+const floatMin = 0.01;
+const floatMax = 2;
 const floatButton = document.getElementById("floating-point-button");
 
 const talkTypeArray = [
@@ -30,12 +32,12 @@ button.onclick = () => {
 if (floatButton) {
   floatButton.onclick = () => {
     if (
-      floatTextField.value > 0.15 ||
-      floatTextField.value < 0 ||
+      floatTextField.value > floatMax ||
+      floatTextField.value < floatMin ||
       isNaN(floatTextField.value)
     ) {
       alert(
-        "Input Value = must be between 0 and 0.15. Did not update floating point number."
+        `Input Value = must be between ${floatMin} and ${floatMax}. Did not update floating point number.`
       );
     } else {
       alert("Success");
